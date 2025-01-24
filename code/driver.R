@@ -380,7 +380,13 @@ suppressPackageStartupMessages(library(methods))
   fsgs_log <-
     append_sum(cohort = "nephrotic_kt_src_no_sle",
                persons = distinct_ct(nephrotic_kt_src_no_sle))
+ 
   
+  # Note: Kidney transplant patients identified by condition_concept_ids
+  # (nephrotic_kt_no_sle) and condition_source_concept_ids (nephrotic_kt_src_no_sle)
+  # were combined and restricted to patients meeting the nephrology visit
+  # criteria (nephrology_visit_cohort_exp) in subsequent analytic steps
+   
 }
 
 #' Set up and execute a data request
