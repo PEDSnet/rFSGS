@@ -1,0 +1,7 @@
+concept_id,concept_code,concept_name,vocabulary_id
+2003588,55.23,Closed [percutaneous] [needle] biopsy of kidney,ICD9Proc
+2003589,55.24,Open biopsy of kidney,ICD9Proc
+2109566,50200,"Renal biopsy; percutaneous, by trocar or needle",CPT4
+2109567,50205,Renal biopsy; by surgical exposure of kidney,CPT4
+35608187,769246001,Closed renal biopsy,SNOMED
+36717689,719033000,Evaluation of kidney biopsy specimen,SNOMED

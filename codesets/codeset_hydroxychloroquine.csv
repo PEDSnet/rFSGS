@@ -1,0 +1,978 @@
+concept_id,concept_code,concept_name,vocabulary_id
+19115452,563148,Chloroquine 50 MG/ML [Malarivon],RxNorm
+41012044,OMOP2210006,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Beragena,RxNorm Extension
+35775821,OMOP2777282,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Bristol Myers Squibb,RxNorm Extension
+36212396,1153859,Chloroquine Injectable Product,RxNorm
+21076697,OMOP279219,Hydroxychloroquine 200 MG Oral Tablet by Sigma-Tau,RxNorm Extension
+40725908,OMOP4731258,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Phoenix Healthcare Distribution,RxNorm Extension
+43290699,OMOP553533,Chloroquine 250 MG Oral Tablet [Chlorquin] Box of 100,RxNorm Extension
+43261349,OMOP534420,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Apotex,RxNorm Extension
+21145290,OMOP279220,Hydroxychloroquine 200 MG Oral Tablet by Alliance,RxNorm Extension
+21126665,OMOP301663,1 ML Hydroxychloroquine 40 MG/ML Oral Solution,RxNorm Extension
+40930659,OMOP2128621,Chloroquine 250 MG Oral Tablet Box of 40,RxNorm Extension
+40241960,1116759,chloroquine phosphate 500 MG [Aralen Phosphate],RxNorm
+42935563,OMOP4662273,Hydroxychloroquine 200 MG [OXIKLORIN],RxNorm Extension
+40241954,1119426,chloroquine phosphate 250 MG / proguanil hydrochloride 100 MG Oral Tablet,RxNorm
+40718408,OMOP4739265,1 ML Hydroxychloroquine 80 MG/ML Oral Suspension,RxNorm Extension
+40876298,OMOP2074260,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quensyl] Box of 30,RxNorm Extension
+19109256,438457,Chloroquine 24.3 MG/ML,RxNorm
+40879593,OMOP2077555,Chloroquine 81 MG Oral Tablet [Resochin] Box of 30,RxNorm Extension
+43256011,OMOP534413,Hydroxychloroquine 200 MG Oral Tablet by Apotex,RxNorm Extension
+40020422,371405,Chloroquine Injectable Solution,RxNorm
+36212398,1153861,Chloroquine Oral Product,RxNorm
+40734813,OMOP4722340,Chloroquine 40 MG/ML [Nivaquine],RxNorm Extension
+35775822,OMOP2777283,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Phoenix Labs,RxNorm Extension
+43145998,OMOP449597,Chloroquine 100 MG Oral Tablet Box of 100,RxNorm Extension
+41188592,OMOP2386554,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 30,RxNorm Extension
+40734623,OMOP4722343,Chloroquine 13.6 MG/ML [Nivaquine],RxNorm Extension
+41230986,OMOP2428948,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Bayer,RxNorm Extension
+40020423,91840,Chloroquine Injectable Solution [Aralen Hydrochloride],RxNorm
+41168510,OMOP2366472,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Beragena,RxNorm Extension
+41035322,OMOP2233284,Chloroquine 125 MG Oral Tablet [Chlorochin] Box of 40,RxNorm Extension
+21056949,OMOP279241,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] by Bristol Myers Squibb,RxNorm Extension
+40868448,OMOP2066410,Chloroquine 81 MG Oral Tablet Box of 30,RxNorm Extension
+21052417,OMOP362224,Chloroquine 250 MG Oral Tablet Box of 100,RxNorm Extension
+41281634,OMOP2479596,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 100,RxNorm Extension
+21056951,OMOP279283,Hydroxychloroquine 7.2 MG/ML,RxNorm Extension
+43283091,OMOP534425,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Sanofi,RxNorm Extension
+40020381,371404,Chloroquine / Primaquine Oral Tablet,RxNorm
+43296077,OMOP553532,Chloroquine 250 MG Oral Tablet [Chlorquin],RxNorm Extension
+42935557,OMOP4662267,Hydroxychloroquine 200 MG [Chlorquin],RxNorm Extension
+41324212,OMOP2522174,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 50 by Berlin-Chemie,RxNorm Extension
+41180757,OMOP2378719,Chloroquine 250 MG Oral Tablet Box of 50,RxNorm Extension
+41094770,OMOP2292732,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quensyl],RxNorm Extension
+21145293,OMOP279317,Hydroxychloroquine 80 MG/ML,RxNorm Extension
+41229343,OMOP2427305,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 100 by Kohlpharma,RxNorm Extension
+21086450,OMOP279257,Hydroxychloroquine 15 MG/ML Oral Suspension,RxNorm Extension
+41012042,OMOP2210004,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 100 by Weimer,RxNorm Extension
+35770548,OMOP2772009,Chloroquine Injectable Solution [Nivaquine],RxNorm Extension
+41230985,OMOP2428947,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Eurim-Pharm,RxNorm Extension
+21091606,OMOP362215,Chloroquine 200 MG Oral Tablet [Nivaquine] Box of 28 by Sanofi,RxNorm Extension
+40725912,OMOP4731254,Hydroxychloroquine 200 MG Oral Tablet by Sigma,RxNorm Extension
+37593293,OMOP4782732,Hydroxychloroquine 200 MG Oral Tablet by Axcount Generika,RxNorm Extension
+21165056,OMOP279247,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 60 by Sanofi,RxNorm Extension
+43272311,OMOP534412,Hydroxychloroquine 200 MG Oral Tablet by Actavis,RxNorm Extension
+35787550,OMOP2789011,100 ML Hydroxychloroquine 40 MG/ML Oral Solution by Drug Tariff Special Order,RxNorm Extension
+40929170,OMOP2127132,Hydroxychloroquine 200 MG Oral Tablet Box of 30,RxNorm Extension
+40961921,OMOP2159883,Chloroquine 0.25 MG/ML Oral Solution Box of 1,RxNorm Extension
+21087799,OMOP307453,5 ML Chloroquine 54.5 MG/ML Prefilled Syringe by Beacon,RxNorm Extension
+21066796,OMOP279209,Hydroxychloroquine 20 MG/ML Oral Solution,RxNorm Extension
+44031061,OMOP1025692,Hydroxychloroquine Oral Tablet [Mint-Hydroxychloroquine],RxNorm Extension
+40856163,OMOP2054125,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Emra-Med,RxNorm Extension
+21066798,OMOP279217,Hydroxychloroquine 200 MG Oral Tablet by Phoenix Labs,RxNorm Extension
+41035319,OMOP2233281,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50,RxNorm Extension
+40868445,OMOP2066407,Chloroquine 250 MG Oral Tablet Box of 240,RxNorm Extension
+40892073,OMOP2090035,Chloroquine 25 MG/ML [Resochin],RxNorm Extension
+40948129,OMOP2146091,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 100 by Gerke,RxNorm Extension
+21076701,OMOP279314,Hydroxychloroquine 6 MG/ML,RxNorm Extension
+19060400,9061,Quinacrine,RxNorm
+42935559,OMOP4662269,Hydroxychloroquine 200 MG [HALOXIN],RxNorm Extension
+41024164,OMOP2222126,Chloroquine 250 MG Oral Tablet Box of 1000,RxNorm Extension
+42935553,OMOP4662263,Hydroxychloroquine 200 MG Oral Tablet [OXIQUINE],RxNorm Extension
+41035320,OMOP2233282,Chloroquine 250 MG Oral Tablet [Resochin] Box of 1500,RxNorm Extension
+40887501,OMOP2085463,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 20 by Berlin-Chemie,RxNorm Extension
+21032724,OMOP362228,Chloroquine 250 MG Oral Tablet [Avloclor] by Alliance,RxNorm Extension
+40051595,370656,Hydroxychloroquine Oral Tablet,RxNorm
+40980704,OMOP2178666,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Eurim-Pharm,RxNorm Extension
+41199919,OMOP2397881,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Mtk,RxNorm Extension
+42935556,OMOP4662266,Hydroxychloroquine 200 MG Oral Tablet [OXIKLORIN],RxNorm Extension
+43256012,OMOP534418,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Chemmart,RxNorm Extension
+40918353,OMOP2116315,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Bayer,RxNorm Extension
+41166915,OMOP2364877,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Kohlpharma,RxNorm Extension
+40972905,OMOP2170867,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20,RxNorm Extension
+21165055,OMOP279239,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Zentiva,RxNorm Extension
+21136556,OMOP301639,1 ML Hydroxychloroquine 7 MG/ML Oral Suspension,RxNorm Extension
+21038757,OMOP307452,5 ML Chloroquine 54.5 MG/ML Prefilled Syringe,RxNorm Extension
+42935569,OMOP4662279,Hydroxychloroquine 100 MG Oral Tablet,RxNorm Extension
+21135410,OMOP279211,Hydroxychloroquine 20 MG/ML Oral Suspension,RxNorm Extension
+42935547,OMOP4662257,Hydroxychloroquine 300 MG,RxNorm Extension
+41066510,OMOP2264472,Chloroquine 250 MG Oral Tablet [Resochin] Box of 1200,RxNorm Extension
+21086449,OMOP279251,Hydroxychloroquine 7 MG/ML Oral Suspension,RxNorm Extension
+21107196,OMOP301674,1 ML Hydroxychloroquine 12 MG/ML Oral Solution,RxNorm Extension
+43591365,OMOP767982,5 ML Chloroquine 50 MG/ML Injectable Solution Box of 5,RxNorm Extension
+41230983,OMOP2428945,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Gerke,RxNorm Extension
+1792553,251716,Chloroquine 150 MG Oral Tablet,RxNorm
+42935550,OMOP4662260,Hydroxychloroquine 200 MG Oral Tablet [Chlorquin],RxNorm Extension
+41160830,OMOP2358792,Chloroquine 50 MG/ML Injectable Solution [Delagil] Box of 5,RxNorm Extension
+41019047,OMOP2217009,Hydroxychloroquine Delayed Release Oral Tablet [Quensyl],RxNorm Extension
+41004245,OMOP2202207,Chloroquine 500 MG Oral Tablet [Weimerquin],RxNorm Extension
+41403997,OMOP2601959,75 ML Chloroquine 10.8 MG/ML Oral Solution [Resochin] Box of 1 by Bayer,RxNorm Extension
+41285016,OMOP2482978,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50,RxNorm Extension
+41204650,OMOP2402612,Chloroquine 500 MG [Weimerquin],RxNorm Extension
+43288564,OMOP534421,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Ranbaxy,RxNorm Extension
+1792585,755534,Chloroquine 7.5 MG/ML Oral Solution,RxNorm
+40725909,OMOP4731257,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Sigma,RxNorm Extension
+21027538,OMOP279200,Hydroxychloroquine 14 MG/ML Oral Solution,RxNorm Extension
+40725911,OMOP4731255,Hydroxychloroquine 200 MG Oral Tablet by Phoenix Healthcare Distribution,RxNorm Extension
+21156678,OMOP307450,5 ML Chloroquine 40 MG/ML Prefilled Syringe [Nivaquine] Box of 10,RxNorm Extension
+42935582,OMOP4662292,Hydroxychloroquine Oral Tablet [HYROQUIN],RxNorm Extension
+41035318,OMOP2233280,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 100,RxNorm Extension
+21111344,OMOP362222,Chloroquine 250 MG Oral Tablet Box of 14,RxNorm Extension
+36212392,1153855,Chloroquine / Primaquine Oral Product,RxNorm
+42482616,OMOP419230,Chloroquine 54.5 MG/ML Prefilled Syringe,RxNorm Extension
+44182835,OMOP3059558,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Ae-Media,RxNorm Extension
+41129367,OMOP2327329,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 20,RxNorm Extension
+41160832,OMOP2358794,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 20,RxNorm Extension
+42935546,OMOP4662256,Hydroxychloroquine 300 MG Oral Tablet [OXIKLORIN],RxNorm Extension
+21174794,OMOP279230,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Phoenix Labs,RxNorm Extension
+21135417,OMOP279307,Hydroxychloroquine 32 MG/ML,RxNorm Extension
+41168512,OMOP2366474,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 10 by Weimer,RxNorm Extension
+41079747,OMOP2277709,Aluminum carbonate 20 MG / Chloroquine 50 MG / salicylamide 325 MG [Formagal],RxNorm Extension
+40910607,OMOP2108569,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100,RxNorm Extension
+21136557,OMOP301652,1 ML Hydroxychloroquine 16 MG/ML Oral Solution,RxNorm Extension
+41324215,OMOP2522177,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Mtk,RxNorm Extension
+35780148,OMOP2781609,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine] by Aventis,RxNorm Extension
+21167878,OMOP330878,500 ML Hydroxychloroquine 10 MG/ML Oral Suspension,RxNorm Extension
+41125982,OMOP2323944,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 30,RxNorm Extension
+40716513,OMOP4741184,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine],RxNorm Extension
+43261348,OMOP534407,Hydroxychloroquine Oral Tablet [Hequinel],RxNorm Extension
+41142042,OMOP2340004,Chloroquine 10.8 MG/ML [Resochin],RxNorm Extension
+40734812,OMOP4722341,Chloroquine 40 MG/ML Injectable Solution [Nivaquine],RxNorm Extension
+21136850,OMOP307443,5 ML Chloroquine 40 MG/ML Prefilled Syringe Box of 10,RxNorm Extension
+21106087,OMOP279292,Hydroxychloroquine 24 MG/ML,RxNorm Extension
+36219013,1164178,Quinacrine Oral Product,RxNorm
+43134973,OMOP448295,Hydroxychloroquine Delayed Release Oral Tablet [Plaquenil],RxNorm Extension
+43168136,OMOP449604,Chloroquine 5 MG/ML [Nivaquine],RxNorm Extension
+41199918,OMOP2397880,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Orifarm Leverkus,RxNorm Extension
+41045563,OMOP2243525,Chloroquine 50 MG,RxNorm Extension
+42935577,OMOP4662287,Hydroxychloroquine 100 MG [OXIKLORIN],RxNorm Extension
+1792515,2393,Chloroquine,RxNorm
+41105914,OMOP2303876,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Beragena,RxNorm Extension
+1792559,332778,Chloroquine 7.5 MG/ML,RxNorm
+36783488,OMOP4771771,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 100 by Sanofi,RxNorm Extension
+40985476,OMOP2183438,Chloroquine 0.25 MG/ML [Weimerquin],RxNorm Extension
+40076296,373729,Quinacrine Oral Tablet,RxNorm
+41043130,OMOP2241092,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Emra-Med,RxNorm Extension
+21174795,OMOP279236,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by DE,RxNorm Extension
+40184088,979096,Hydroxychloroquine Sulfate 200 MG [Quineprox],RxNorm
+21165056,OMOP279247,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 60 by Sanofi,RxNorm Extension
+41191958,OMOP2389920,Chloroquine 250 MG Oral Tablet [Resochin] Box of 300,RxNorm Extension
+44073920,OMOP1068551,Chloroquine 250 MG Oral Tablet [Teva-Chloroquine],RxNorm Extension
+42935575,OMOP4662285,Hydroxychloroquine 100 MG [HALOXIN],RxNorm Extension
+41142044,OMOP2340006,Chloroquine 81 MG [Resochin],RxNorm Extension
+44082807,OMOP1077438,Hydroxychloroquine Oral Tablet [Apo-Hydroxyquine],RxNorm Extension
+41168509,OMOP2366471,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 50 by Biokanol,RxNorm Extension
+41252089,OMOP2450051,Ethosuximide 150 MG / Quinacrine 7.5 MG Oral Capsule [Acrisuxin] Box of 1000,RxNorm Extension
+41012043,OMOP2210005,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Beragena,RxNorm Extension
+1777087,5521,Hydroxychloroquine,RxNorm
+21155238,OMOP279248,Hydroxychloroquine 7 MG/ML,RxNorm Extension
+21077782,OMOP301648,1 ML Hydroxychloroquine 50 MG/ML Oral Solution,RxNorm Extension
+41035321,OMOP2233283,Chloroquine 250 MG Oral Tablet [Resochin],RxNorm Extension
+40887502,OMOP2085464,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 50 by Weimer,RxNorm Extension
+41111091,OMOP2309053,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG [Prednicorm],RxNorm Extension
+41243090,OMOP2441052,Chloroquine 250 MG Oral Tablet Box of 30,RxNorm Extension
+40972904,OMOP2170866,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 50,RxNorm Extension
+41250777,OMOP2448739,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 100,RxNorm Extension
+42935570,OMOP4662280,Hydroxychloroquine 100 MG Oral Tablet [HALOXIN],RxNorm Extension
+21106081,OMOP279203,Hydroxychloroquine 10 MG/ML Oral Solution,RxNorm Extension
+35787113,OMOP2788574,100 ML Hydroxychloroquine 40 MG/ML Oral Solution,RxNorm Extension
+40879592,OMOP2077554,Chloroquine 25 MG/ML Oral Solution [Weimerquin],RxNorm Extension
+36236954,1170092,Aralen Phosphate Pill,RxNorm
+43167997,OMOP448300,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 30 by Sanofi,RxNorm Extension
+19109257,438460,Chloroquine 5 MG/ML,RxNorm
+41012045,OMOP2210007,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Aca Mueller,RxNorm Extension
+41188592,OMOP2386554,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 30,RxNorm Extension
+40241958,1116758,chloroquine phosphate 500 MG Oral Tablet,RxNorm
+42479703,OMOP419229,Chloroquine 40 MG/ML Prefilled Syringe,RxNorm Extension
+43663632,OMOP767983,5 ML Chloroquine 50 MG/ML Injectable Solution [Resochin],RxNorm Extension
+42935549,OMOP4662259,Hydroxychloroquine 300 MG [OXIKLORIN],RxNorm Extension
+40930660,OMOP2128622,Chloroquine 500 MG Oral Tablet Box of 50,RxNorm Extension
+41129368,OMOP2327330,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 50,RxNorm Extension
+35781180,OMOP2782641,5 ML Chloroquine 54.5 MG/ML Injectable Solution by Beacon,RxNorm Extension
+35754929,OMOP2756390,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Alliance,RxNorm Extension
+42935579,OMOP4662289,Hydroxychloroquine Oral Tablet [ARUQUIN],RxNorm Extension
+35780887,OMOP2782348,5 ML Chloroquine 54.5 MG/ML Injectable Solution Box of 10,RxNorm Extension
+21125525,OMOP279254,Hydroxychloroquine 15 MG/ML Oral Solution,RxNorm Extension
+41004243,OMOP2202205,Chloroquine 250 MG Oral Tablet [Resochin] Box of 30,RxNorm Extension
+35770832,OMOP2772293,Chloroquine 40 MG/ML Injectable Solution Box of 10,RxNorm Extension
+44128854,OMOP1123485,Chloroquine 250 MG Oral Tablet [Aralen] by Sanofi,RxNorm Extension
+21047208,OMOP279235,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Waymade,RxNorm Extension
+41229344,OMOP2427306,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 100 by Sanofi,RxNorm Extension
+1792520,249571,Chloroquine 100 MG Oral Tablet,RxNorm
+40854520,OMOP2052482,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Emra-Med,RxNorm Extension
+21038756,OMOP307449,5 ML Chloroquine 40 MG/ML Prefilled Syringe [Nivaquine] by Aventis,RxNorm Extension
+41358832,OMOP2556794,5 ML Chloroquine 50 MG/ML Injectable Solution Box of 10,RxNorm Extension
+43288563,OMOP534416,Hydroxychloroquine 200 MG Oral Tablet Box of 100,RxNorm Extension
+21081858,OMOP362205,Chloroquine Oral Solution [Nivaquine],RxNorm Extension
+43710763,OMOP941330,Hydroxychloroquine 200 MG Oral Tablet [Quensyl],RxNorm Extension
+41316291,OMOP2514253,Chloroquine 250 MG Oral Tablet [Chlorochin],RxNorm Extension
+35763258,OMOP2764719,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by A A H,RxNorm Extension
+41261721,OMOP2459683,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 20 by Biokanol,RxNorm Extension
+41098028,OMOP2295990,Chloroquine 25 MG/ML Oral Solution [Resochin] Box of 1,RxNorm Extension
+40725906,OMOP4731260,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] by Bristol Labs,RxNorm Extension
+36212394,1153857,Chloroquine / Proguanil Oral Product,RxNorm
+43145999,OMOP449616,Chloroquine 100 MG / Proguanil 200 MG Delayed Release Oral Tablet [SAVARINE] Box of 28 by Alliance,RxNorm Extension
+40918354,OMOP2116316,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Orifarm Leverkus,RxNorm Extension
+41145351,OMOP2343313,Chloroquine Oral Suspension [Chlorochin],RxNorm Extension
+35771714,OMOP2773175,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Phoenix Labs,RxNorm Extension
+21028652,OMOP301635,1 ML Hydroxychloroquine 20 MG/ML Oral Suspension,RxNorm Extension
+21160524,OMOP362237,Chloroquine 54.5 MG/ML Prefilled Syringe Box of 10,RxNorm Extension
+40734814,OMOP4722339,Chloroquine Oral Tablet [Nivaquine],RxNorm Extension
+21147657,OMOP322048,100 ML Chloroquine 13.6 MG/ML Oral Solution [Nivaquine],RxNorm Extension
+44076117,OMOP1070748,Hydroxychloroquine 200 MG Oral Tablet [Mylan-Hydroxychloroquine] by Mylan,RxNorm Extension
+41149667,OMOP2347629,Chloroquine 250 MG Oral Tablet Box of 1200,RxNorm Extension
+41098027,OMOP2295989,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 50,RxNorm Extension
+43256013,OMOP534419,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Actavis,RxNorm Extension
+41212147,OMOP2410109,Chloroquine 10.8 MG/ML Oral Solution,RxNorm Extension
+40146037,756408,Chloroquine Oral Solution,RxNorm
+43179204,OMOP449600,Chloroquine 100 MG Oral Tablet [Nivaquine] Box of 20 by Sanofi,RxNorm Extension
+36212399,1153862,Chloroquine Pill,RxNorm
+21091609,OMOP362223,Chloroquine 250 MG Oral Tablet Box of 20,RxNorm Extension
+41199917,OMOP2397879,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Eurim-Pharm,RxNorm Extension
+40926257,OMOP2124219,Chloroquine Oral Tablet [Arthrabas],RxNorm Extension
+40949692,OMOP2147654,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 50 by Biokanol,RxNorm Extension
+41137309,OMOP2335271,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Beragena,RxNorm Extension
+41168511,OMOP2366473,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Mtk,RxNorm Extension
+40910610,OMOP2108572,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100,RxNorm Extension
+21155237,OMOP279231,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Kent,RxNorm Extension
+41223004,OMOP2420966,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20,RxNorm Extension
+40949691,OMOP2147653,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Kohlpharma,RxNorm Extension
+41173115,OMOP2371077,Chloroquine 50 MG/ML [Delagil],RxNorm Extension
+43145850,OMOP448297,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 30,RxNorm Extension
+21106086,OMOP279287,Hydroxychloroquine 40 MG/ML Oral Solution,RxNorm Extension
+21058308,OMOP307441,5 ML Chloroquine 40 MG/ML Prefilled Syringe by A A H,RxNorm Extension
+41043132,OMOP2241094,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Bayer,RxNorm Extension
+21091608,OMOP362219,Chloroquine 40 MG/ML Prefilled Syringe [Nivaquine] Box of 10,RxNorm Extension
+44111968,OMOP1106599,Hydroxychloroquine 200 MG Oral Tablet [Apo-Hydroxyquine],RxNorm Extension
+41324214,OMOP2522176,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Kohlpharma,RxNorm Extension
+43294011,OMOP534417,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Terry White Chemists,RxNorm Extension
+42935541,OMOP4662251,Hydroxychloroquine 400 MG Oral Tablet [DUROC],RxNorm Extension
+41419622,OMOP2617584,100 ML Chloroquine 0.25 MG/ML Oral Solution [Weimerquin],RxNorm Extension
+21037303,OMOP279238,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by TEVA,RxNorm Extension
+21059650,OMOP328956,300 ML Hydroxychloroquine 10 MG/ML Oral Suspension,RxNorm Extension
+40734617,OMOP4722349,Chloroquine 200 MG Oral Tablet [Nivaquine] Box of 28,RxNorm Extension
+40725910,OMOP4731256,Hydroxychloroquine 200 MG Oral Tablet by Bristol Labs,RxNorm Extension
+42935574,OMOP4662284,Hydroxychloroquine 100 MG,RxNorm Extension
+41261721,OMOP2459683,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 20 by Biokanol,RxNorm Extension
+41012045,OMOP2210007,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Aca Mueller,RxNorm Extension
+40833416,OMOP2031378,Aminopyrine / Chloroquine / mofebutazone / Prednisone Oral Tablet [Prednicorm],RxNorm Extension
+41424348,OMOP2622310,100 ML Chloroquine 25 MG/ML Oral Solution,RxNorm Extension
+21086456,OMOP279325,Hydroxychloroquine 30 MG/ML Oral Solution,RxNorm Extension
+41273962,OMOP2471924,Chloroquine 125 MG Oral Tablet,RxNorm Extension
+21086451,OMOP279273,Hydroxychloroquine 21.6 MG/ML,RxNorm Extension
+41168509,OMOP2366471,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 50 by Biokanol,RxNorm Extension
+36268893,OMOP3119768,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Sanofi,RxNorm Extension
+21155233,OMOP279206,Hydroxychloroquine 10 MG/ML Oral Suspension,RxNorm Extension
+40040602,439517,Ethosuximide / Quinacrine Oral Capsule,RxNorm
+40020428,368265,Chloroquine Oral Tablet [Aralen Phosphate],RxNorm
+41012043,OMOP2210005,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Beragena,RxNorm Extension
+41035321,OMOP2233283,Chloroquine 250 MG Oral Tablet [Resochin],RxNorm Extension
+44121726,OMOP1116357,Hydroxychloroquine Oral Tablet [Mylan-Hydroxychloroquine],RxNorm Extension
+43143167,OMOP429018,150 ML Chloroquine 5 MG/ML Oral Solution [Nivaquine] Box of 1,RxNorm Extension
+40725907,OMOP4731259,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Bristol Labs,RxNorm Extension
+21076698,OMOP279242,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] Box of 60,RxNorm Extension
+41301210,OMOP2499172,Aluminum carbonate / Chloroquine / salicylamide Oral Tablet [Formagal],RxNorm Extension
+40887502,OMOP2085464,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 50 by Weimer,RxNorm Extension
+41129368,OMOP2327330,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 50,RxNorm Extension
+40930660,OMOP2128622,Chloroquine 500 MG Oral Tablet Box of 50,RxNorm Extension
+40241766,1116756,Chloroquine hydrochloride 50 MG/ML Injectable Solution [Aralen Hydrochloride],RxNorm
+21165061,OMOP279321,Hydroxychloroquine 13 MG/ML Oral Solution,RxNorm Extension
+43201161,OMOP449595,Chloroquine 100 MG [Nivaquine],RxNorm Extension
+41243090,OMOP2441052,Chloroquine 250 MG Oral Tablet Box of 30,RxNorm Extension
+40972904,OMOP2170866,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 50,RxNorm Extension
+41403690,OMOP2601652,75 ML Chloroquine 10.8 MG/ML Oral Solution [Resochin],RxNorm Extension
+42935567,OMOP4662277,Hydroxychloroquine 150 MG [OXIKLORIN],RxNorm Extension
+21096201,OMOP279215,Hydroxychloroquine 200 MG Oral Tablet by Bristol Myers Squibb,RxNorm Extension
+19128757,755627,Chloroquine 5 MG/ML Oral Solution,RxNorm
+40241765,1116754,Chloroquine hydrochloride 50 MG/ML Injectable Solution,RxNorm
+43201165,OMOP449613,Chloroquine 100 MG / Proguanil 200 MG Delayed Release Oral Tablet Box of 28,RxNorm Extension
+41043130,OMOP2241092,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Emra-Med,RxNorm Extension
+21165054,OMOP279228,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Bristol Myers Squibb,RxNorm Extension
+40985475,OMOP2183437,Chloroquine 250 MG [Resochina],RxNorm Extension
+21135411,OMOP279218,Hydroxychloroquine 200 MG Oral Tablet by Kent,RxNorm Extension
+36219014,1164179,Quinacrine Pill,RxNorm
+43167996,OMOP448299,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 30,RxNorm Extension
+41191958,OMOP2389920,Chloroquine 250 MG Oral Tablet [Resochin] Box of 300,RxNorm Extension
+40949692,OMOP2147654,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 50 by Biokanol,RxNorm Extension
+44073920,OMOP1068551,Chloroquine 250 MG Oral Tablet [Teva-Chloroquine],RxNorm Extension
+21097619,OMOP307445,5 ML Chloroquine 40 MG/ML Prefilled Syringe Box of 10 by A A H,RxNorm Extension
+44073327,OMOP1067958,Hydroxychloroquine 200 MG Oral Tablet [Pro-Hydroxyquine],RxNorm Extension
+43157265,OMOP449611,Chloroquine 100 MG / Proguanil 200 MG [SAVARINE],RxNorm Extension
+41010389,OMOP2208351,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 30 by Eurim-Pharm,RxNorm Extension
+36236952,1170090,Aralen Hydrochloride Injectable Product,RxNorm
+21052416,OMOP362211,Chloroquine 200 MG Oral Tablet Box of 28,RxNorm Extension
+41199918,OMOP2397880,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Orifarm Leverkus,RxNorm Extension
+40241758,1117351,Chloroquine Sulfate 13.6 MG/ML Oral Solution,RxNorm
+41105914,OMOP2303876,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Beragena,RxNorm Extension
+41137309,OMOP2335271,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Beragena,RxNorm Extension
+40974839,OMOP2172801,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG Oral Tablet [Prednicorm] Box of 30,RxNorm Extension
+41168511,OMOP2366473,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Mtk,RxNorm Extension
+44063408,OMOP1058039,Hydroxychloroquine 200 MG Oral Tablet [Apo-Hydroxyquine] by Apotex,RxNorm Extension
+21047209,OMOP279240,Hydroxychloroquine 200 MG Oral Tablet [Quinoric],RxNorm Extension
+21028651,OMOP301632,1 ML Hydroxychloroquine 20 MG/ML Oral Solution,RxNorm Extension
+43818772,OMOP941331,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] by Sanofi,RxNorm Extension
+40910610,OMOP2108572,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100,RxNorm Extension
+21135412,OMOP279229,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Creo,RxNorm Extension
+41223004,OMOP2420966,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20,RxNorm Extension
+40949691,OMOP2147653,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Kohlpharma,RxNorm Extension
+43272312,OMOP534423,Hydroxychloroquine 200 MG Oral Tablet [Hequinel] Box of 100,RxNorm Extension
+35746539,OMOP2748000,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quinoric] by Bristol Myers Squibb,RxNorm Extension
+40879590,OMOP2077552,Chloroquine 50 MG/ML Injectable Solution [Resochin] Box of 10,RxNorm Extension
+36231296,1181267,Plaquenil Pill,RxNorm
+41043132,OMOP2241094,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Bayer,RxNorm Extension
+41324214,OMOP2522176,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Kohlpharma,RxNorm Extension
+40725905,OMOP4731261,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] Box of 60 by Bristol Labs,RxNorm Extension
+36212397,1153860,Chloroquine Oral Liquid Product,RxNorm
+35781339,OMOP2782800,5 ML Chloroquine 40 MG/ML Injectable Solution Box of 10 by Alliance,RxNorm Extension
+21146408,OMOP301665,1 ML Hydroxychloroquine 40 MG/ML Oral Suspension,RxNorm Extension
+43272310,OMOP534411,Hydroxychloroquine 200 MG Oral Tablet by Chemmart,RxNorm Extension
+35780724,OMOP2782185,5 ML Chloroquine 40 MG/ML Injectable Solution,RxNorm Extension
+41149667,OMOP2347629,Chloroquine 250 MG Oral Tablet Box of 1200,RxNorm Extension
+41098027,OMOP2295989,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 50,RxNorm Extension
+21058307,OMOP307439,5 ML Chloroquine 40 MG/ML Prefilled Syringe,RxNorm Extension
+41049173,OMOP2247135,Aminopyrine / Chloroquine / mofebutazone / Prednisone Oral Tablet,RxNorm Extension
+43288565,OMOP534422,Hydroxychloroquine 200 MG Oral Tablet [Hequinel],RxNorm Extension
+21022974,OMOP362214,Chloroquine 200 MG Oral Tablet [Nivaquine] Box of 28,RxNorm Extension
+21087517,OMOP301641,1 ML Hydroxychloroquine 15 MG/ML Oral Solution,RxNorm Extension
+41199917,OMOP2397879,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Eurim-Pharm,RxNorm Extension
+21091609,OMOP362223,Chloroquine 250 MG Oral Tablet Box of 20,RxNorm Extension
+21174800,OMOP279318,Hydroxychloroquine 80 MG/ML Oral Solution,RxNorm Extension
+43294010,OMOP534415,Hydroxychloroquine 200 MG Oral Tablet by Ranbaxy,RxNorm Extension
+35767365,OMOP2768826,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Sigma-Tau,RxNorm Extension
+44128854,OMOP1123485,Chloroquine 250 MG Oral Tablet [Aralen] by Sanofi,RxNorm Extension
+41420967,OMOP2618929,100 ML Chloroquine 0.25 MG/ML Oral Solution,RxNorm Extension
+21174793,OMOP279222,Hydroxychloroquine 200 MG Oral Tablet by DE,RxNorm Extension
+35771716,OMOP2773177,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Creo,RxNorm Extension
+40241958,1116758,chloroquine phosphate 500 MG Oral Tablet,RxNorm
+40146038,756409,Chloroquine Oral Solution [Malarivon],RxNorm
+21125522,OMOP279216,Hydroxychloroquine 200 MG Oral Tablet by Creo,RxNorm Extension
+35775823,OMOP2777284,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Bristol Myers Squibb,RxNorm Extension
+41316291,OMOP2514253,Chloroquine 250 MG Oral Tablet [Chlorochin],RxNorm Extension
+21125523,OMOP279237,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by A A H,RxNorm Extension
+40918354,OMOP2116316,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Orifarm Leverkus,RxNorm Extension
+43201164,OMOP449609,Chloroquine / Proguanil Delayed Release Oral Tablet [SAVARINE],RxNorm Extension
+21096202,OMOP279286,Hydroxychloroquine 40 MG/ML,RxNorm Extension
+43277802,OMOP534424,Hydroxychloroquine 200 MG Oral Tablet by Sanofi,RxNorm Extension
+43211955,OMOP449612,Chloroquine 100 MG / Proguanil 200 MG Delayed Release Oral Tablet,RxNorm Extension
+43176332,OMOP429016,150 ML Chloroquine 5 MG/ML Oral Solution Box of 1,RxNorm Extension
+40184084,979092,Hydroxychloroquine Sulfate 200 MG Oral Tablet,RxNorm
+21056950,OMOP279245,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] by Sanofi,RxNorm Extension
+40241761,1117353,Chloroquine Sulfate 200 MG Oral Tablet,RxNorm
+43165300,OMOP429015,150 ML Chloroquine 5 MG/ML Oral Solution,RxNorm Extension
+21174798,OMOP279265,Hydroxychloroquine 8 MG/ML,RxNorm Extension
+41066511,OMOP2264473,Chloroquine 125 MG Oral Tablet [Chlorochin],RxNorm Extension
+35789051,OMOP2790512,300 ML Hydroxychloroquine 10 MG/ML Oral Solution,RxNorm Extension
+43145849,OMOP448294,Hydroxychloroquine Delayed Release Oral Tablet,RxNorm Extension
+42935572,OMOP4662282,Hydroxychloroquine 100 MG Oral Tablet [OXIKLORIN],RxNorm Extension
+40020427,371407,Chloroquine Oral Tablet,RxNorm
+21027539,OMOP279226,Hydroxychloroquine 200 MG Oral Tablet by Zentiva,RxNorm Extension
+41357029,OMOP2554991,5 ML Chloroquine 50 MG/ML Injectable Solution [Resochin] Box of 5 by Bayer,RxNorm Extension
+21115852,OMOP279233,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Alliance,RxNorm Extension
+21106088,OMOP279297,Hydroxychloroquine 4 MG/ML,RxNorm Extension
+43294012,OMOP534426,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100,RxNorm Extension
+41004243,OMOP2202205,Chloroquine 250 MG Oral Tablet [Resochin] Box of 30,RxNorm Extension
+21101501,OMOP362208,Chloroquine Prefilled Syringe [Nivaquine],RxNorm Extension
+41324212,OMOP2522174,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 50 by Berlin-Chemie,RxNorm Extension
+37593292,OMOP4782731,Hydroxychloroquine 200 MG Oral Tablet by Dr. Friedrich Eberth,RxNorm Extension
+21097618,OMOP307440,5 ML Chloroquine 40 MG/ML Prefilled Syringe by Alliance,RxNorm Extension
+41180757,OMOP2378719,Chloroquine 250 MG Oral Tablet Box of 50,RxNorm Extension
+19128758,755628,Chloroquine 50 MG/ML Oral Solution,RxNorm
+41012042,OMOP2210004,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 100 by Weimer,RxNorm Extension
+41230985,OMOP2428947,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Eurim-Pharm,RxNorm Extension
+21088814,OMOP324499,100 ML Hydroxychloroquine 40 MG/ML Oral Suspension,RxNorm Extension
+21056947,OMOP279224,Hydroxychloroquine 200 MG Oral Tablet by A A H,RxNorm Extension
+21037305,OMOP279301,Hydroxychloroquine 12 MG/ML,RxNorm Extension
+41422182,OMOP2620144,100 ML Chloroquine 25 MG/ML Oral Solution [Weimerquin] Box of 1,RxNorm Extension
+21115853,OMOP279246,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 60,RxNorm Extension
+42935580,OMOP4662290,Hydroxychloroquine Oral Tablet [HALOXIN],RxNorm Extension
+43157264,OMOP449608,Chloroquine / Proguanil Delayed Release Oral Tablet,RxNorm Extension
+21076699,OMOP279243,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] Box of 60 by Bristol Myers Squibb,RxNorm Extension
+41168510,OMOP2366472,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Beragena,RxNorm Extension
+40910611,OMOP2108573,Chloroquine 16 MG/ML Oral Suspension [Chlorochin],RxNorm Extension
+21145291,OMOP279268,Hydroxychloroquine 8 MG/ML Oral Solution,RxNorm Extension
+21052417,OMOP362224,Chloroquine 250 MG Oral Tablet Box of 100,RxNorm Extension
+19105758,422430,Chloroquine 24.3 MG/ML Oral Suspension,RxNorm
+44109050,OMOP1103681,Chloroquine Oral Tablet [Aralen],RxNorm Extension
+40025169,438459,Chloroquine / Proguanil Oral Tablet,RxNorm
+40184085,979094,Hydroxychloroquine Sulfate 200 MG Oral Tablet [Plaquenil],RxNorm
+21037302,OMOP279232,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Sigma-Tau,RxNorm Extension
+41010389,OMOP2208351,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 30 by Eurim-Pharm,RxNorm Extension
+43296077,OMOP553532,Chloroquine 250 MG Oral Tablet [Chlorquin],RxNorm Extension
+42935552,OMOP4662262,Hydroxychloroquine 200 MG Oral Tablet [HALOXIN],RxNorm Extension
+21175886,OMOP301646,1 ML Hydroxychloroquine 3 MG/ML Oral Solution,RxNorm Extension
+21166157,OMOP301690,1 ML Hydroxychloroquine 30 MG/ML Oral Solution,RxNorm Extension
+21037306,OMOP279302,Hydroxychloroquine 12 MG/ML Oral Solution,RxNorm Extension
+40241763,1119310,Chloroquine Sulfate 54.5 MG/ML Injectable Solution,RxNorm
+40734622,OMOP4722344,Chloroquine 13.6 MG/ML Oral Solution [Nivaquine],RxNorm Extension
+35745819,OMOP2747280,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 60,RxNorm Extension
+41168512,OMOP2366474,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 10 by Weimer,RxNorm Extension
+41160832,OMOP2358794,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 20,RxNorm Extension
+40241959,1116760,chloroquine phosphate 500 MG Oral Tablet [Aralen Phosphate],RxNorm
+41402261,OMOP2600223,60 ML Chloroquine 16 MG/ML Oral Solution [Chlorochin],RxNorm Extension
+40961922,OMOP2159884,Chloroquine 0.25 MG/ML Oral Solution,RxNorm Extension
+40184087,979093,Hydroxychloroquine Sulfate 200 MG [Plaquenil],RxNorm
+41230986,OMOP2428948,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Bayer,RxNorm Extension
+40885841,OMOP2083803,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Eurim-Pharm,RxNorm Extension
+42935540,OMOP4662250,Hydroxychloroquine 400 MG Oral Tablet [Chlorquin],RxNorm Extension
+40716512,OMOP4741185,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine] by Aventis,RxNorm Extension
+41356864,OMOP2554826,5 ML Chloroquine 50 MG/ML Injectable Solution [Delagil],RxNorm Extension
+41012044,OMOP2210006,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Beragena,RxNorm Extension
+42935554,OMOP4662264,Hydroxychloroquine 200 MG Oral Tablet [HYROQUIN],RxNorm Extension
+21111342,OMOP362207,Chloroquine Oral Tablet [Nivaquine],RxNorm Extension
+43717223,OMOP767981,5 ML Chloroquine 50 MG/ML Injectable Solution,RxNorm Extension
+43157263,OMOP449603,Chloroquine 100 MG Oral Tablet [Nivaquine] Box of 100 by Sanofi,RxNorm Extension
+40184086,979097,Hydroxychloroquine Sulfate 200 MG Oral Tablet [Quineprox],RxNorm
+43290699,OMOP553533,Chloroquine 250 MG Oral Tablet [Chlorquin] Box of 100,RxNorm Extension
+21136558,OMOP301683,1 ML Hydroxychloroquine 6 MG/ML Oral Solution,RxNorm Extension
+21155236,OMOP279227,Hydroxychloroquine 200 MG Oral Tablet Box of 60,RxNorm Extension
+40979061,OMOP2177023,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 30 by Sanofi,RxNorm Extension
+40734620,OMOP4722346,Chloroquine 200 MG [Nivaquine],RxNorm Extension
+40930659,OMOP2128621,Chloroquine 250 MG Oral Tablet Box of 40,RxNorm Extension
+41225024,OMOP2422986,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG Oral Tablet [Prednicorm] Box of 150,RxNorm Extension
+42935581,OMOP4662291,Hydroxychloroquine Oral Tablet [OXIQUINE],RxNorm Extension
+40241757,1117350,Chloroquine Sulfate 13.6 MG/ML,RxNorm
+40988812,OMOP2186774,Chloroquine Oral Tablet [Chlorochin],RxNorm Extension
+41004245,OMOP2202207,Chloroquine 500 MG Oral Tablet [Weimerquin],RxNorm Extension
+40983120,OMOP2181082,Chloroquine 125 MG,RxNorm Extension
+44088977,OMOP1083608,Hydroxychloroquine 200 MG Oral Tablet [Mint-Hydroxychloroquine] by Mint,RxNorm Extension
+21111344,OMOP362222,Chloroquine 250 MG Oral Tablet Box of 14,RxNorm Extension
+21166416,OMOP307454,5 ML Chloroquine 54.5 MG/ML Prefilled Syringe Box of 10,RxNorm Extension
+41403868,OMOP2601830,75 ML Chloroquine 25 MG/ML Oral Solution Box of 1,RxNorm Extension
+40898052,OMOP2096014,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 100,RxNorm Extension
+41129367,OMOP2327329,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 20,RxNorm Extension
+44182835,OMOP3059558,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Ae-Media,RxNorm Extension
+21107195,OMOP301661,1 ML Hydroxychloroquine 7.2 MG/ML Oral Solution,RxNorm Extension
+42935565,OMOP4662275,Hydroxychloroquine 150 MG Oral Tablet [OXIKLORIN],RxNorm Extension
+35753919,OMOP2755380,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60,RxNorm Extension
+42935573,OMOP4662283,Hydroxychloroquine 100 MG [Chlorquin],RxNorm Extension
+35780058,OMOP2781519,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine] Box of 10,RxNorm Extension
+40910607,OMOP2108569,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100,RxNorm Extension
+41402137,OMOP2600099,60 ML Chloroquine 16 MG/ML Oral Suspension,RxNorm Extension
+42935562,OMOP4662272,Hydroxychloroquine 200 MG [DUROC],RxNorm Extension
+41324215,OMOP2522177,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Mtk,RxNorm Extension
+21039469,OMOP320525,75 ML Chloroquine 16 MG/ML Oral Solution,RxNorm Extension
+40241962,1119497,chloroquine phosphate 81 MG Oral Tablet,RxNorm
+41072757,OMOP2270719,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Gerke,RxNorm Extension
+41285016,OMOP2482978,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50,RxNorm Extension
+21121012,OMOP362213,Chloroquine 200 MG Oral Tablet [Nivaquine] by Sanofi,RxNorm Extension
+43692707,OMOP938976,Chloroquine 50 MG/ML Injectable Solution [Resochin] Box of 5,RxNorm Extension
+21091610,OMOP362239,Chloroquine 13.6 MG/ML Oral Solution [Nivaquine],RxNorm Extension
+21115854,OMOP279271,Hydroxychloroquine 16 MG/ML Oral Solution,RxNorm Extension
+21056950,OMOP279245,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] by Sanofi,RxNorm Extension
+21155235,OMOP279221,Hydroxychloroquine 200 MG Oral Tablet by Waymade,RxNorm Extension
+41403989,OMOP2601951,75 ML Chloroquine 25 MG/ML Oral Solution [Resochin],RxNorm Extension
+21077783,OMOP301672,1 ML Hydroxychloroquine 4 MG/ML Oral Solution,RxNorm Extension
+40241764,1116753,Chloroquine hydrochloride 50 MG/ML,RxNorm
+41421779,OMOP2619741,100 ML Chloroquine 0.25 MG/ML Oral Solution Box of 1,RxNorm Extension
+40241767,1116755,Chloroquine hydrochloride 50 MG/ML [Aralen Hydrochloride],RxNorm
+21097338,OMOP301628,1 ML Hydroxychloroquine 10 MG/ML Oral Solution,RxNorm Extension
+44073328,OMOP1067959,Hydroxychloroquine 200 MG Oral Tablet [Mint-Hydroxychloroquine],RxNorm Extension
+41054425,OMOP2252387,Ethosuximide 150 MG / Quinacrine 7.5 MG Oral Capsule Box of 1000,RxNorm Extension
+41035318,OMOP2233280,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 100,RxNorm Extension
+21125527,OMOP279263,Hydroxychloroquine 50 MG/ML Oral Solution,RxNorm Extension
+44034473,OMOP1029104,Hydroxychloroquine 200 MG Oral Tablet [Mylan-Hydroxychloroquine],RxNorm Extension
+40241956,1116757,chloroquine phosphate 500 MG,RxNorm
+21087522,OMOP301659,1 ML Hydroxychloroquine 4.4 MG/ML Oral Solution,RxNorm Extension
+42935551,OMOP4662261,Hydroxychloroquine 200 MG Oral Tablet [ARUQUIN],RxNorm Extension
+40980704,OMOP2178666,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Eurim-Pharm,RxNorm Extension
+21032724,OMOP362228,Chloroquine 250 MG Oral Tablet [Avloclor] by Alliance,RxNorm Extension
+41199919,OMOP2397881,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Mtk,RxNorm Extension
+21041765,OMOP346442,Quinacrine 100 MG Oral Tablet Box of 1,RxNorm Extension
+21165053,OMOP279208,Hydroxychloroquine 20 MG/ML,RxNorm Extension
+44102017,OMOP1096648,Hydroxychloroquine 200 MG Oral Tablet [Pro-Hydroxyquine] by Pro Doc Limitee,RxNorm Extension
+1792560,332779,Chloroquine 150 MG,RxNorm
+43277801,OMOP534410,Hydroxychloroquine 200 MG Oral Tablet by Terry White Chemists,RxNorm Extension
+40918353,OMOP2116315,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Bayer,RxNorm Extension
+40972905,OMOP2170867,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20,RxNorm Extension
+36231295,1181266,Plaquenil Oral Product,RxNorm
+35771713,OMOP2773174,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Waymade,RxNorm Extension
+43190087,OMOP449606,Chloroquine 5 MG/ML Oral Solution [Nivaquine],RxNorm Extension
+41066510,OMOP2264472,Chloroquine 250 MG Oral Tablet [Resochin] Box of 1200,RxNorm Extension
+41230983,OMOP2428945,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Gerke,RxNorm Extension
+35767362,OMOP2768823,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quinoric] Box of 60 by Bristol Myers Squibb,RxNorm Extension
+21086455,OMOP279298,Hydroxychloroquine 4 MG/ML Oral Solution,RxNorm Extension
+21056948,OMOP279225,Hydroxychloroquine 200 MG Oral Tablet by TEVA,RxNorm Extension
+41181806,OMOP2379768,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG Oral Tablet Box of 30,RxNorm Extension
+19100160,360917,Chloroquine 40 MG/ML,RxNorm
+40241957,1119308,chloroquine phosphate 500 MG / Primaquine Phosphate 79 MG Oral Tablet,RxNorm
+41141562,OMOP2339524,Ethosuximide 150 MG / Quinacrine 7.5 MG [Acrisuxin],RxNorm Extension
+40856163,OMOP2054125,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Emra-Med,RxNorm Extension
+21121014,OMOP362240,Chloroquine 13.6 MG/ML Oral Solution [Nivaquine] by Sanofi,RxNorm Extension
+41035319,OMOP2233281,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50,RxNorm Extension
+42935555,OMOP4662265,Hydroxychloroquine 200 MG Oral Tablet [DUROC],RxNorm Extension
+40868445,OMOP2066407,Chloroquine 250 MG Oral Tablet Box of 240,RxNorm Extension
+42935566,OMOP4662276,Hydroxychloroquine 150 MG,RxNorm Extension
+43157262,OMOP449602,Chloroquine 100 MG Oral Tablet [Nivaquine] Box of 100,RxNorm Extension
+41024164,OMOP2222126,Chloroquine 250 MG Oral Tablet Box of 1000,RxNorm Extension
+43190088,OMOP449607,Chloroquine 5 MG/ML Oral Solution [Nivaquine] Box of 1,RxNorm Extension
+41035320,OMOP2233282,Chloroquine 250 MG Oral Tablet [Resochin] Box of 1500,RxNorm Extension
+41243093,OMOP2441055,Chloroquine 25 MG/ML Oral Solution Box of 1,RxNorm Extension
+43620634,OMOP938975,Chloroquine 50 MG/ML Injectable Solution [Resochin],RxNorm Extension
+40887501,OMOP2085463,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 20 by Berlin-Chemie,RxNorm Extension
+21076702,OMOP279320,Hydroxychloroquine 13 MG/ML,RxNorm Extension
+41356863,OMOP2554825,5 ML Chloroquine 50 MG/ML Injectable Solution [Delagil] Box of 5,RxNorm Extension
+40702880,OMOP4754309,{2 (chloroquine phosphate 250 MG Oral Tablet) / 14 (proguanil hydrochloride 100 MG Oral Tablet) } Pack,RxNorm Extension
+35774702,OMOP2776163,Hydroxychloroquine Delayed Release Oral Tablet [Quinoric],RxNorm Extension
+21165058,OMOP279259,Hydroxychloroquine 3 MG/ML,RxNorm Extension
+40885841,OMOP2083803,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Eurim-Pharm,RxNorm Extension
+36213608,1157371,Ethosuximide / Quinacrine Oral Product,RxNorm
+21147384,OMOP320526,75 ML Chloroquine 16 MG/ML Oral Solution [Malarivon],RxNorm Extension
+36213609,1157372,Ethosuximide / Quinacrine Pill,RxNorm
+40712358,OMOP4744878,100 ML Chloroquine 13.6 MG/ML Oral Solution [Nivaquine] by Sanofi,RxNorm Extension
+21096205,OMOP279324,Hydroxychloroquine 30 MG/ML,RxNorm Extension
+40241959,1116760,chloroquine phosphate 500 MG Oral Tablet [Aralen Phosphate],RxNorm
+40725910,OMOP4731256,Hydroxychloroquine 200 MG Oral Tablet by Bristol Labs,RxNorm Extension
+21155241,OMOP279308,Hydroxychloroquine 32 MG/ML Oral Solution,RxNorm Extension
+41137312,OMOP2335274,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 20 by Weimer,RxNorm Extension
+40734616,OMOP4722350,Chloroquine 200 MG Oral Tablet [Nivaquine] Box of 28 by Sanofi,RxNorm Extension
+21106080,OMOP279196,Hydroxychloroquine Oral Solution,RxNorm Extension
+21048268,OMOP301643,1 ML Hydroxychloroquine 15 MG/ML Oral Suspension,RxNorm Extension
+41074501,OMOP2272463,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Eurim-Pharm,RxNorm Extension
+41149666,OMOP2347628,Chloroquine 250 MG Oral Tablet Box of 1500,RxNorm Extension
+21037303,OMOP279238,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by TEVA,RxNorm Extension
+21125521,OMOP279199,Hydroxychloroquine 14 MG/ML,RxNorm Extension
+44121725,OMOP1116356,Hydroxychloroquine Oral Tablet [Nu-Hydroxyquine],RxNorm Extension
+41261719,OMOP2459681,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 100 by Biokanol,RxNorm Extension
+40848445,OMOP2046407,Chloroquine 25 MG/ML Oral Solution [Weimerquin] Box of 1,RxNorm Extension
+40885840,OMOP2083802,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 100 by Eurim-Pharm,RxNorm Extension
+21076698,OMOP279242,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] Box of 60,RxNorm Extension
+41416604,OMOP2614566,100 ML Chloroquine 25 MG/ML Oral Solution Box of 1,RxNorm Extension
+35746248,OMOP2747709,Chloroquine 40 MG/ML Injectable Solution [Nivaquine] Box of 10,RxNorm Extension
+40718729,OMOP4738972,1 ML Chloroquine 13.6 MG/ML Oral Solution,RxNorm Extension
+40829621,OMOP2027583,Chloroquine 250 MG [Chlorochin],RxNorm Extension
+40856162,OMOP2054124,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 20 by Biokanol,RxNorm Extension
+40725907,OMOP4731259,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Bristol Labs,RxNorm Extension
+41324216,OMOP2522178,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 10 by Biokanol,RxNorm Extension
+42935558,OMOP4662268,Hydroxychloroquine 200 MG [ARUQUIN],RxNorm Extension
+36268893,OMOP3119768,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Sanofi,RxNorm Extension
+35780841,OMOP2782302,5 ML Chloroquine 40 MG/ML Injectable Solution by Sanofi,RxNorm Extension
+21086453,OMOP279290,Hydroxychloroquine 40 MG/ML Oral Suspension,RxNorm Extension
+35771711,OMOP2773172,Hydroxychloroquine 40 MG/ML Oral Suspension by Drug Tariff Special Order,RxNorm Extension
+21115853,OMOP279246,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 60,RxNorm Extension
+21177952,OMOP339808,{14 (chloroquine phosphate 250 MG Oral Tablet) / 98 (proguanil hydrochloride 100 MG Oral Tablet) } Pack [Paludrine/Avloclor anti-malarial travel pack] by Alliance,RxNorm Extension
+21165054,OMOP279228,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Bristol Myers Squibb,RxNorm Extension
+21125530,OMOP279315,Hydroxychloroquine 6 MG/ML Oral Solution,RxNorm Extension
+42935560,OMOP4662270,Hydroxychloroquine 200 MG [OXIQUINE],RxNorm Extension
+21135411,OMOP279218,Hydroxychloroquine 200 MG Oral Tablet by Kent,RxNorm Extension
+40824749,OMOP2022711,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Ae-Media,RxNorm Extension
+36897622,OMOP990857,{14 (chloroquine phosphate 250 MG Oral Tablet) / 98 (proguanil hydrochloride 100 MG Oral Tablet) } Pack [Paludrine/Avloclor anti-malarial travel pack],RxNorm Extension
+41043131,OMOP2241093,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Kohlpharma,RxNorm Extension
+21121013,OMOP362220,Chloroquine 250 MG [Avloclor],RxNorm Extension
+41142043,OMOP2340005,Chloroquine 16 MG/ML [Chlorochin],RxNorm Extension
+21096201,OMOP279215,Hydroxychloroquine 200 MG Oral Tablet by Bristol Myers Squibb,RxNorm Extension
+35786248,OMOP2787709,100 ML Hydroxychloroquine 40 MG/ML Oral Suspension by Drug Tariff Special Order,RxNorm Extension
+21175884,OMOP301630,1 ML Hydroxychloroquine 10 MG/ML Oral Suspension,RxNorm Extension
+40734816,OMOP4722337,Chloroquine Injectable Solution [Nivaquine],RxNorm Extension
+40900605,OMOP2098567,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG Oral Tablet Box of 150,RxNorm Extension
+40712359,OMOP4744877,100 ML Chloroquine 13.6 MG/ML Oral Solution [Nivaquine],RxNorm Extension
+41010389,OMOP2208351,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 30 by Eurim-Pharm,RxNorm Extension
+21156677,OMOP307448,5 ML Chloroquine 40 MG/ML Prefilled Syringe [Nivaquine],RxNorm Extension
+40184085,979094,Hydroxychloroquine Sulfate 200 MG Oral Tablet [Plaquenil],RxNorm
+41403729,OMOP2601691,75 ML Chloroquine 10.8 MG/ML Oral Solution [Resochin] Box of 1,RxNorm Extension
+40716511,OMOP4741186,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine] Box of 10,RxNorm Extension
+19006866,105334,Chloroquine 40 MG/ML Injectable Solution,RxNorm
+21058050,OMOP301692,1 ML Hydroxychloroquine 30 MG/ML Oral Suspension,RxNorm Extension
+41285015,OMOP2482977,Chloroquine 250 MG Oral Tablet [Resochin] Box of 1000,RxNorm Extension
+35746542,OMOP2748003,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by A A H,RxNorm Extension
+44160280,OMOP3037003,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Ae-Media,RxNorm Extension
+40980702,OMOP2178664,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Repa,RxNorm Extension
+21136555,OMOP301637,1 ML Hydroxychloroquine 7 MG/ML Oral Solution,RxNorm Extension
+44073327,OMOP1067958,Hydroxychloroquine 200 MG Oral Tablet [Pro-Hydroxyquine],RxNorm Extension
+21106084,OMOP279277,Hydroxychloroquine 10.7 MG/ML Oral Solution,RxNorm Extension
+21032725,OMOP362231,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 20,RxNorm Extension
+35780149,OMOP2781610,5 ML Chloroquine 40 MG/ML Injectable Solution Box of 10 by Sanofi,RxNorm Extension
+40725905,OMOP4731261,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] Box of 60 by Bristol Labs,RxNorm Extension
+40664937,OMOP4754308,{2 (chloroquine phosphate 250 MG Oral Tablet) / 14 (proguanil hydrochloride 100 MG Oral Tablet) } Pack box of 7,RxNorm Extension
+40665026,OMOP4754307,{2 (chloroquine phosphate 250 MG Oral Tablet) / 14 (proguanil hydrochloride 100 MG Oral Tablet) } Pack box of 7 by Alliance,RxNorm Extension
+43272312,OMOP534423,Hydroxychloroquine 200 MG Oral Tablet [Hequinel] Box of 100,RxNorm Extension
+44115695,OMOP1110326,Chloroquine 250 MG Oral Tablet [Teva-Chloroquine] by TEVA,RxNorm Extension
+35770939,OMOP2772400,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quinoric],RxNorm Extension
+41292883,OMOP2490845,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 100 by Takeda,RxNorm Extension
+41230984,OMOP2428946,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Aca Mueller,RxNorm Extension
+35780150,OMOP2781611,5 ML Chloroquine 40 MG/ML Injectable Solution by A A H,RxNorm Extension
+44063408,OMOP1058039,Hydroxychloroquine 200 MG Oral Tablet [Apo-Hydroxyquine] by Apotex,RxNorm Extension
+40241951,1119305,chloroquine phosphate 25 MG/ML,RxNorm
+21047209,OMOP279240,Hydroxychloroquine 200 MG Oral Tablet [Quinoric],RxNorm Extension
+43818772,OMOP941331,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] by Sanofi,RxNorm Extension
+21135412,OMOP279229,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Creo,RxNorm Extension
+40974840,OMOP2172802,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG Oral Tablet [Prednicorm],RxNorm Extension
+41137311,OMOP2335273,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Beragena,RxNorm Extension
+41316293,OMOP2514255,Chloroquine 0.25 MG/ML Oral Solution [Weimerquin] Box of 1,RxNorm Extension
+41422439,OMOP2620401,100 ML Chloroquine 0.25 MG/ML Oral Solution [Weimerquin] Box of 1 by Biokanol,RxNorm Extension
+41324213,OMOP2522175,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Gerke,RxNorm Extension
+41100106,OMOP2298068,Aluminum carbonate 20 MG / Chloroquine 50 MG / salicylamide 325 MG Oral Tablet [Formagal] Box of 40,RxNorm Extension
+21038755,OMOP307447,5 ML Chloroquine 40 MG/ML Prefilled Syringe Box of 10 by Sanofi,RxNorm Extension
+40734815,OMOP4722338,Chloroquine Oral Solution [Nivaquine],RxNorm Extension
+19128406,754877,Chloroquine 50 MG/ML Oral Solution [Malarivon],RxNorm
+43294010,OMOP534415,Hydroxychloroquine 200 MG Oral Tablet by Ranbaxy,RxNorm Extension
+43288565,OMOP534422,Hydroxychloroquine 200 MG Oral Tablet [Hequinel],RxNorm Extension
+41066509,OMOP2264471,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 20,RxNorm Extension
+40974943,OMOP2172905,Aluminum carbonate 20 MG / Chloroquine 50 MG / salicylamide 325 MG Oral Tablet [Formagal],RxNorm Extension
+21108177,OMOP320527,75 ML Chloroquine 16 MG/ML Oral Solution [Malarivon] by Wallace Chemists,RxNorm Extension
+41127302,OMOP2325264,Ethosuximide 150 MG / Quinacrine 7.5 MG Oral Capsule [Acrisuxin],RxNorm Extension
+40733828,OMOP4724245,Quinacrine Oral Capsule,RxNorm Extension
+41024165,OMOP2222127,Chloroquine 250 MG Oral Tablet Box of 250,RxNorm Extension
+41269701,OMOP2467663,Chloroquine Oral Tablet [Weimerquin],RxNorm Extension
+44041434,OMOP1036065,Hydroxychloroquine 200 MG [Mylan-Hydroxychloroquine],RxNorm Extension
+43272310,OMOP534411,Hydroxychloroquine 200 MG Oral Tablet by Chemmart,RxNorm Extension
+41316292,OMOP2514254,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 50,RxNorm Extension
+40241952,1119306,chloroquine phosphate 25 MG/ML Oral Solution,RxNorm
+43277802,OMOP534424,Hydroxychloroquine 200 MG Oral Tablet by Sanofi,RxNorm Extension
+36220826,1164627,Hydroxychloroquine Oral Product,RxNorm
+41170847,OMOP2368809,Chloroquine 10.8 MG/ML,RxNorm Extension
+21022976,OMOP362235,Chloroquine 16 MG/ML Oral Solution [Malarivon] by Wallace Chemists,RxNorm Extension
+21125523,OMOP279237,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by A A H,RxNorm Extension
+35771710,OMOP2773171,Hydroxychloroquine 40 MG/ML Oral Solution by Drug Tariff Special Order,RxNorm Extension
+41105913,OMOP2303875,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Emra-Med,RxNorm Extension
+21125522,OMOP279216,Hydroxychloroquine 200 MG Oral Tablet by Creo,RxNorm Extension
+43154325,OMOP429019,150 ML Chloroquine 5 MG/ML Oral Solution [Nivaquine] Box of 1 by Sanofi,RxNorm Extension
+21174793,OMOP279222,Hydroxychloroquine 200 MG Oral Tablet by DE,RxNorm Extension
+35746541,OMOP2748002,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by TEVA,RxNorm Extension
+41191957,OMOP2389919,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 40,RxNorm Extension
+40051596,93787,Hydroxychloroquine Oral Tablet [Plaquenil],RxNorm
+21115852,OMOP279233,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Alliance,RxNorm Extension
+43294012,OMOP534426,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100,RxNorm Extension
+40993163,OMOP2191125,Chloroquine 50 MG/ML Injectable Solution Box of 10,RxNorm Extension
+41050986,OMOP2248948,Chloroquine Oral Solution [Weimerquin],RxNorm Extension
+21125524,OMOP279249,Hydroxychloroquine 7 MG/ML Oral Solution,RxNorm Extension
+21101502,OMOP362225,Chloroquine 250 MG Oral Tablet Box of 100 by Alliance,RxNorm Extension
+21027539,OMOP279226,Hydroxychloroquine 200 MG Oral Tablet by Zentiva,RxNorm Extension
+41137310,OMOP2335272,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Ae-Media,RxNorm Extension
+43145851,OMOP448298,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil],RxNorm Extension
+41253969,OMOP2451931,Chloroquine 50 MG/ML Injectable Solution [Delagil],RxNorm Extension
+41292884,OMOP2490846,Chloroquine 81 MG Oral Tablet [Resochin] Box of 30 by Bayer,RxNorm Extension
+41072757,OMOP2270719,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Gerke,RxNorm Extension
+41066508,OMOP2264470,Chloroquine 250 MG Oral Tablet [Arthrabas],RxNorm Extension
+36212395,1153858,Chloroquine / Proguanil Pill,RxNorm
+40184084,979092,Hydroxychloroquine Sulfate 200 MG Oral Tablet,RxNorm
+40848443,OMOP2046405,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 100,RxNorm Extension
+21056950,OMOP279245,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] by Sanofi,RxNorm Extension
+41243091,OMOP2441053,Chloroquine 16 MG/ML Oral Suspension,RxNorm Extension
+21115853,OMOP279246,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 60,RxNorm Extension
+41261718,OMOP2459680,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 100 by Berlin-Chemie,RxNorm Extension
+21056947,OMOP279224,Hydroxychloroquine 200 MG Oral Tablet by A A H,RxNorm Extension
+42935561,OMOP4662271,Hydroxychloroquine 200 MG [HYROQUIN],RxNorm Extension
+37593292,OMOP4782731,Hydroxychloroquine 200 MG Oral Tablet by Dr. Friedrich Eberth,RxNorm Extension
+40941911,OMOP2139873,Chloroquine 250 MG Oral Tablet [Resochin] Box of 240,RxNorm Extension
+40822060,OMOP2020022,Chloroquine 125 MG Oral Tablet Box of 40,RxNorm Extension
+35754930,OMOP2756391,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Kent,RxNorm Extension
+35789486,OMOP2790947,500 ML Hydroxychloroquine 10 MG/ML Oral Solution,RxNorm Extension
+40980705,OMOP2178667,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Eurim-Pharm,RxNorm Extension
+21037302,OMOP279232,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Sigma-Tau,RxNorm Extension
+40184085,979094,Hydroxychloroquine Sulfate 200 MG Oral Tablet [Plaquenil],RxNorm
+42935552,OMOP4662262,Hydroxychloroquine 200 MG Oral Tablet [HALOXIN],RxNorm Extension
+40848444,OMOP2046406,Chloroquine 10.8 MG/ML Oral Solution [Resochin] Box of 1,RxNorm Extension
+21091607,OMOP362218,Chloroquine 40 MG/ML Prefilled Syringe [Nivaquine],RxNorm Extension
+41176316,OMOP2374278,Chloroquine Oral Solution [Chlorochin],RxNorm Extension
+40241762,1119309,Chloroquine Sulfate 54.5 MG/ML,RxNorm
+41243092,OMOP2441054,Chloroquine 500 MG Oral Tablet Box of 20,RxNorm Extension
+36236953,1170091,Aralen Phosphate Oral Product,RxNorm
+43279855,OMOP553530,Chloroquine 250 MG [Chlorquin],RxNorm Extension
+21077784,OMOP301676,1 ML Hydroxychloroquine 17 MG/ML Oral Solution,RxNorm Extension
+44099795,OMOP1094426,Chloroquine 250 MG Oral Tablet [Aralen],RxNorm Extension
+40941910,OMOP2139872,Chloroquine 250 MG Oral Tablet [Weimerquin],RxNorm Extension
+40910609,OMOP2108571,Chloroquine 250 MG Oral Tablet [Resochin] Box of 250,RxNorm Extension
+21150566,OMOP362212,Chloroquine 200 MG Oral Tablet [Nivaquine],RxNorm Extension
+41403473,OMOP2601435,75 ML Chloroquine 10.8 MG/ML Oral Solution,RxNorm Extension
+40241961,1119496,chloroquine phosphate 81 MG,RxNorm
+41230982,OMOP2428944,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 50 by Takeda,RxNorm Extension
+21076699,OMOP279243,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] Box of 60 by Bristol Myers Squibb,RxNorm Extension
+43211954,OMOP449598,Chloroquine 100 MG Oral Tablet [Nivaquine],RxNorm Extension
+43620753,OMOP941329,Hydroxychloroquine 200 MG [Quensyl],RxNorm Extension
+19060421,312747,Quinacrine 100 MG Oral Tablet,RxNorm
+40885841,OMOP2083803,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Eurim-Pharm,RxNorm Extension
+44159967,OMOP3036690,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quensyl] Box of 100 by Sanofi,RxNorm Extension
+44080705,OMOP1075336,Chloroquine 250 MG [Aralen],RxNorm Extension
+21087519,OMOP301650,1 ML Hydroxychloroquine 8 MG/ML Oral Solution,RxNorm Extension
+21170321,OMOP362221,Chloroquine 250 MG Oral Tablet by Alliance,RxNorm Extension
+21160523,OMOP362234,Chloroquine 16 MG/ML Oral Solution [Malarivon],RxNorm Extension
+43211957,OMOP449615,Chloroquine 100 MG / Proguanil 200 MG Delayed Release Oral Tablet [SAVARINE] Box of 28,RxNorm Extension
+21155242,OMOP279310,Hydroxychloroquine 5 MG/ML,RxNorm Extension
+40980703,OMOP2178665,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Gerke,RxNorm Extension
+21081859,OMOP362230,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 14 by Alliance,RxNorm Extension
+21062244,OMOP362226,Chloroquine 250 MG Oral Tablet [Avloclor],RxNorm Extension
+35775160,OMOP2776621,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quinoric] Box of 60,RxNorm Extension
+21032726,OMOP362238,Chloroquine 13.6 MG/ML [Nivaquine],RxNorm Extension
+21155236,OMOP279227,Hydroxychloroquine 200 MG Oral Tablet Box of 60,RxNorm Extension
+40184086,979097,Hydroxychloroquine Sulfate 200 MG Oral Tablet [Quineprox],RxNorm
+40241950,1117346,chloroquine phosphate 16 MG/ML Oral Solution,RxNorm
+40979061,OMOP2177023,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 30 by Sanofi,RxNorm Extension
+41305085,OMOP2503047,Chloroquine 500 MG Oral Tablet Box of 10,RxNorm Extension
+43189969,OMOP448296,Hydroxychloroquine 200 MG Delayed Release Oral Tablet,RxNorm Extension
+35775530,OMOP2776991,Chloroquine 40 MG/ML Injectable Solution [Nivaquine],RxNorm Extension
+36268893,OMOP3119768,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Sanofi,RxNorm Extension
+42935554,OMOP4662264,Hydroxychloroquine 200 MG Oral Tablet [HYROQUIN],RxNorm Extension
+21101503,OMOP362229,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 14,RxNorm Extension
+42935545,OMOP4662255,Hydroxychloroquine 300 MG Oral Tablet [DUROC],RxNorm Extension
+44080191,OMOP1074822,Hydroxychloroquine 200 MG [Pro-Hydroxyquine],RxNorm Extension
+35780371,OMOP2781832,5 ML Chloroquine 40 MG/ML Injectable Solution Box of 10,RxNorm Extension
+40931705,OMOP2129667,Aluminum carbonate 20 MG / Chloroquine 50 MG / salicylamide 325 MG Oral Tablet Box of 40,RxNorm Extension
+40910608,OMOP2108570,Chloroquine 250 MG Oral Tablet [Resochina],RxNorm Extension
+42935571,OMOP4662281,Hydroxychloroquine 100 MG Oral Tablet [DUROC],RxNorm Extension
+44119637,OMOP1114268,Chloroquine 250 MG [Teva-Chloroquine],RxNorm Extension
+21177751,OMOP339876,{14 (chloroquine phosphate 250 MG Oral Tablet) / 98 (proguanil hydrochloride 100 MG Oral Tablet) } Pack,RxNorm Extension
+44106094,OMOP1100725,Hydroxychloroquine 200 MG [Apo-Hydroxyquine],RxNorm Extension
+40918355,OMOP2116317,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Ae-Media,RxNorm Extension
+41402260,OMOP2600222,60 ML Chloroquine 16 MG/ML Oral Suspension [Chlorochin],RxNorm Extension
+19083833,329404,Chloroquine 50 MG/ML,RxNorm
+19109850,439516,Quinacrine 7.5 MG,RxNorm
+36231217,1179719,Malarivon Oral Liquid Product,RxNorm
+40994264,OMOP2192226,Aluminum carbonate 20 MG / Chloroquine 50 MG / salicylamide 325 MG Oral Tablet,RxNorm Extension
+41295218,OMOP2493180,Chloroquine 40 MG,RxNorm Extension
+44088977,OMOP1083608,Hydroxychloroquine 200 MG Oral Tablet [Mint-Hydroxychloroquine] by Mint,RxNorm Extension
+41233320,OMOP2431282,Chloroquine 0.25 MG/ML,RxNorm Extension
+43692706,OMOP938972,Chloroquine 50 MG/ML [Resochin],RxNorm Extension
+21086452,OMOP279284,Hydroxychloroquine 7.2 MG/ML Oral Solution,RxNorm Extension
+41316290,OMOP2514252,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 100,RxNorm Extension
+44073328,OMOP1067959,Hydroxychloroquine 200 MG Oral Tablet [Mint-Hydroxychloroquine],RxNorm Extension
+43800506,OMOP938971,Chloroquine 250 MG Oral Tablet [Resochin] by Bayer,RxNorm Extension
+42935548,OMOP4662258,Hydroxychloroquine 300 MG [DUROC],RxNorm Extension
+44160279,OMOP3037002,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Ae-Media,RxNorm Extension
+44034473,OMOP1029104,Hydroxychloroquine 200 MG Oral Tablet [Mylan-Hydroxychloroquine],RxNorm Extension
+40184083,979091,Hydroxychloroquine Sulfate 200 MG,RxNorm
+43263522,OMOP553529,Chloroquine Oral Tablet [Chlorquin],RxNorm Extension
+43294012,OMOP534426,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100,RxNorm Extension
+43836794,OMOP938968,Chloroquine Injectable Solution [Resochin],RxNorm Extension
+41297504,OMOP2495466,Chloroquine 25 MG/ML [Weimerquin],RxNorm Extension
+40702768,OMOP4754530,{(chloroquine phosphate 250 MG Oral Tablet) / (proguanil hydrochloride 100 MG Oral Tablet) } Pack by Alliance,RxNorm Extension
+43145997,OMOP449596,Chloroquine 100 MG Oral Tablet Box of 20,RxNorm Extension
+36212393,1153856,Chloroquine / Primaquine Pill,RxNorm
+21155235,OMOP279221,Hydroxychloroquine 200 MG Oral Tablet by Waymade,RxNorm Extension
+41261720,OMOP2459682,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 20 by Weimer,RxNorm Extension
+41352095,OMOP2550057,5 ML Chloroquine 50 MG/ML Injectable Solution [Resochin] Box of 10,RxNorm Extension
+21042642,OMOP362232,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 20 by Alliance,RxNorm Extension
+19084558,330176,Quinacrine 100 MG,RxNorm
+43272309,OMOP534409,Hydroxychloroquine 200 MG [Hequinel],RxNorm Extension
+41072757,OMOP2270719,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Gerke,RxNorm Extension
+40733826,OMOP4724247,Quinacrine 50 MG Oral Capsule,RxNorm Extension
+44083221,OMOP1077852,Chloroquine Oral Tablet [Teva-Chloroquine],RxNorm Extension
+40702767,OMOP4754531,{(chloroquine phosphate 250 MG Oral Tablet) / (proguanil hydrochloride 100 MG Oral Tablet) } Pack,RxNorm Extension
+44119113,OMOP1113744,Hydroxychloroquine 200 MG [Mint-Hydroxychloroquine],RxNorm Extension
+43674979,OMOP938974,Chloroquine 50 MG/ML Injectable Solution Box of 5,RxNorm Extension
+42935583,OMOP4662293,Hydroxychloroquine Oral Tablet [DUROC],RxNorm Extension
+21056948,OMOP279225,Hydroxychloroquine 200 MG Oral Tablet by TEVA,RxNorm Extension
+41282985,OMOP2480947,Ethosuximide 150 MG / Quinacrine 7.5 MG Oral Capsule [Acrisuxin] Box of 100,RxNorm Extension
+21111343,OMOP362217,Chloroquine 40 MG/ML Prefilled Syringe Box of 10,RxNorm Extension
+40241955,1117531,chloroquine phosphate 250 MG Oral Tablet,RxNorm
+36240210,1185918,Quineprox Oral Product,RxNorm
+21176187,OMOP307451,5 ML Chloroquine 40 MG/ML Prefilled Syringe [Nivaquine] Box of 10 by Aventis,RxNorm Extension
+40725913,OMOP4731253,Hydroxychloroquine 80 MG/ML Oral Suspension,RxNorm Extension
+43277801,OMOP534410,Hydroxychloroquine 200 MG Oral Tablet by Terry White Chemists,RxNorm Extension
+42935551,OMOP4662261,Hydroxychloroquine 200 MG Oral Tablet [ARUQUIN],RxNorm Extension
+44102017,OMOP1096648,Hydroxychloroquine 200 MG Oral Tablet [Pro-Hydroxyquine] by Pro Doc Limitee,RxNorm Extension
+40829623,OMOP2027585,Chloroquine 125 MG [Chlorochin],RxNorm Extension
+40242200,1119312,Hydroxychloroquine Sulfate 400 MG Oral Tablet,RxNorm
+21150565,OMOP362209,Chloroquine 200 MG [Nivaquine],RxNorm Extension
+40241953,1117530,chloroquine phosphate 250 MG,RxNorm
+43807195,OMOP767985,5 ML Chloroquine 50 MG/ML Injectable Solution [Resochin] by Bayer,RxNorm Extension
+40879591,OMOP2077553,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 10,RxNorm Extension
+42935555,OMOP4662265,Hydroxychloroquine 200 MG Oral Tablet [DUROC],RxNorm Extension
+40734621,OMOP4722345,Chloroquine 13.6 MG/ML Oral Solution [Nivaquine] by Sanofi,RxNorm Extension
+40716510,OMOP4741187,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine] Box of 10 by Aventis,RxNorm Extension
+40837301,OMOP2035263,Chloroquine 250 MG Oral Tablet Box of 300,RxNorm Extension
+35780192,OMOP2781653,5 ML Chloroquine 54.5 MG/ML Injectable Solution,RxNorm Extension
+43261349,OMOP534420,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Apotex,RxNorm Extension
+21145290,OMOP279220,Hydroxychloroquine 200 MG Oral Tablet by Alliance,RxNorm Extension
+19107670,432898,Chloroquine 300 MG Oral Tablet,RxNorm
+21177179,OMOP322047,100 ML Chloroquine 13.6 MG/ML Oral Solution,RxNorm Extension
+40241949,1117345,chloroquine phosphate 16 MG/ML,RxNorm
+40733827,OMOP4724246,Quinacrine 50 MG,RxNorm Extension
+21101503,OMOP362229,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 14,RxNorm Extension
+40734619,OMOP4722347,Chloroquine 200 MG Oral Tablet [Nivaquine],RxNorm Extension
+21076700,OMOP279270,Hydroxychloroquine 16 MG/ML,RxNorm Extension
+21076697,OMOP279219,Hydroxychloroquine 200 MG Oral Tablet by Sigma-Tau,RxNorm Extension
+40725908,OMOP4731258,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Phoenix Healthcare Distribution,RxNorm Extension
+35759043,OMOP2760504,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by DE,RxNorm Extension
+40910608,OMOP2108570,Chloroquine 250 MG Oral Tablet [Resochina],RxNorm Extension
+40734618,OMOP4722348,Chloroquine 200 MG Oral Tablet [Nivaquine] by Sanofi,RxNorm Extension
+41188592,OMOP2386554,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 30,RxNorm Extension
+21087523,OMOP301681,1 ML Hydroxychloroquine 5 MG/ML Oral Solution,RxNorm Extension
+21125529,OMOP279295,Hydroxychloroquine 24 MG/ML Oral Suspension,RxNorm Extension
+19109258,438461,Chloroquine 300 MG,RxNorm
+35767361,OMOP2768822,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] by Sanofi,RxNorm Extension
+21170321,OMOP362221,Chloroquine 250 MG Oral Tablet by Alliance,RxNorm Extension
+43256011,OMOP534413,Hydroxychloroquine 200 MG Oral Tablet by Apotex,RxNorm Extension
+43584746,OMOP941328,Hydroxychloroquine Oral Tablet [Quensyl],RxNorm Extension
+40980703,OMOP2178665,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Gerke,RxNorm Extension
+36231218,1179720,Malarivon Oral Product,RxNorm
+21081859,OMOP362230,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 14 by Alliance,RxNorm Extension
+21062244,OMOP362226,Chloroquine 250 MG Oral Tablet [Avloclor],RxNorm Extension
+40980705,OMOP2178667,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Eurim-Pharm,RxNorm Extension
+43283091,OMOP534425,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Sanofi,RxNorm Extension
+21022975,OMOP362233,Chloroquine 16 MG/ML [Malarivon],RxNorm Extension
+21106082,OMOP279262,Hydroxychloroquine 50 MG/ML,RxNorm Extension
+40879591,OMOP2077553,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 10,RxNorm Extension
+44099795,OMOP1094426,Chloroquine 250 MG Oral Tablet [Aralen],RxNorm Extension
+42935564,OMOP4662274,Hydroxychloroquine 150 MG Oral Tablet,RxNorm Extension
+40941910,OMOP2139872,Chloroquine 250 MG Oral Tablet [Weimerquin],RxNorm Extension
+40910609,OMOP2108571,Chloroquine 250 MG Oral Tablet [Resochin] Box of 250,RxNorm Extension
+21056949,OMOP279241,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] by Bristol Myers Squibb,RxNorm Extension
+21167404,OMOP322049,100 ML Chloroquine 13.6 MG/ML Oral Solution [Nivaquine] by Sanofi,RxNorm Extension
+40734624,OMOP4722342,Chloroquine 40 MG/ML Injectable Solution [Nivaquine] Box of 10,RxNorm Extension
+35754928,OMOP2756389,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Kent,RxNorm Extension
+41230982,OMOP2428944,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 50 by Takeda,RxNorm Extension
+40929170,OMOP2127132,Hydroxychloroquine 200 MG Oral Tablet Box of 30,RxNorm Extension
+35780493,OMOP2781954,5 ML Chloroquine 54.5 MG/ML Injectable Solution Box of 10 by Beacon,RxNorm Extension
+21107197,OMOP301679,1 ML Hydroxychloroquine 32 MG/ML Oral Solution,RxNorm Extension
+21027544,OMOP279304,Hydroxychloroquine 17 MG/ML,RxNorm Extension
+21125528,OMOP279280,Hydroxychloroquine 4.4 MG/ML,RxNorm Extension
+41261718,OMOP2459680,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 100 by Berlin-Chemie,RxNorm Extension
+21067942,OMOP301687,1 ML Hydroxychloroquine 13 MG/ML Oral Solution,RxNorm Extension
+21165056,OMOP279247,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 60 by Sanofi,RxNorm Extension
+43272311,OMOP534412,Hydroxychloroquine 200 MG Oral Tablet by Actavis,RxNorm Extension
+35777716,OMOP2779177,1 ML Hydroxychloroquine 40 MG/ML Oral Suspension by Drug Tariff Special Order,RxNorm Extension
+21038459,OMOP301670,1 ML Hydroxychloroquine 24 MG/ML Oral Suspension,RxNorm Extension
+41422183,OMOP2620145,100 ML Chloroquine 25 MG/ML Oral Solution [Weimerquin],RxNorm Extension
+37593293,OMOP4782732,Hydroxychloroquine 200 MG Oral Tablet by Axcount Generika,RxNorm Extension
+40725912,OMOP4731254,Hydroxychloroquine 200 MG Oral Tablet by Sigma,RxNorm Extension
+40941911,OMOP2139873,Chloroquine 250 MG Oral Tablet [Resochin] Box of 240,RxNorm Extension
+40241759,1117352,Chloroquine Sulfate 200 MG,RxNorm
+40988811,OMOP2186773,Chloroquine Injectable Solution [Delagil],RxNorm Extension
+35780312,OMOP2781773,5 ML Chloroquine 40 MG/ML Injectable Solution by Alliance,RxNorm Extension
+35750711,OMOP2752172,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Zentiva,RxNorm Extension
+43699484,OMOP767986,5 ML Chloroquine 50 MG/ML Injectable Solution [Resochin] Box of 5,RxNorm Extension
+21166415,OMOP307444,5 ML Chloroquine 40 MG/ML Prefilled Syringe Box of 10 by Alliance,RxNorm Extension
+1792583,332782,Chloroquine 100 MG,RxNorm
+43211956,OMOP449614,Chloroquine 100 MG / Proguanil 200 MG Delayed Release Oral Tablet [SAVARINE],RxNorm Extension
+35746540,OMOP2748001,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Alliance,RxNorm Extension
+40895287,OMOP2093249,Chloroquine Oral Solution [Resochin],RxNorm Extension
+42935553,OMOP4662263,Hydroxychloroquine 200 MG Oral Tablet [OXIQUINE],RxNorm Extension
+21106085,OMOP279281,Hydroxychloroquine 4.4 MG/ML Oral Solution,RxNorm Extension
+21056952,OMOP279312,Hydroxychloroquine 5 MG/ML Oral Solution,RxNorm Extension
+21067940,OMOP301668,1 ML Hydroxychloroquine 24 MG/ML Oral Solution,RxNorm Extension
+41243092,OMOP2441054,Chloroquine 500 MG Oral Tablet Box of 20,RxNorm Extension
+41160831,OMOP2358793,Chloroquine 16 MG/ML Oral Solution [Chlorochin],RxNorm Extension
+35759042,OMOP2760503,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by TEVA,RxNorm Extension
+40837301,OMOP2035263,Chloroquine 250 MG Oral Tablet Box of 300,RxNorm Extension
+21066798,OMOP279217,Hydroxychloroquine 200 MG Oral Tablet by Phoenix Labs,RxNorm Extension
+21125520,OMOP279198,Hydroxychloroquine Oral Tablet [Quinoric],RxNorm Extension
+21106083,OMOP279276,Hydroxychloroquine 10.7 MG/ML,RxNorm Extension
+42480271,OMOP419228,Chloroquine Prefilled Syringe,RxNorm Extension
+42935550,OMOP4662260,Hydroxychloroquine 200 MG Oral Tablet [Chlorquin],RxNorm Extension
+21096203,OMOP279293,Hydroxychloroquine 24 MG/ML Oral Solution,RxNorm Extension
+43201162,OMOP449599,Chloroquine 100 MG Oral Tablet [Nivaquine] Box of 20,RxNorm Extension
+42935543,OMOP4662253,Hydroxychloroquine 400 MG [DUROC],RxNorm Extension
+40241955,1117531,chloroquine phosphate 250 MG Oral Tablet,RxNorm
+41166915,OMOP2364877,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Kohlpharma,RxNorm Extension
+21165055,OMOP279239,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Zentiva,RxNorm Extension
+43201163,OMOP449605,Chloroquine 5 MG/ML Oral Solution Box of 1,RxNorm Extension
+21116943,OMOP301657,1 ML Hydroxychloroquine 10.7 MG/ML Oral Solution,RxNorm Extension
+43256012,OMOP534418,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Chemmart,RxNorm Extension
+42935556,OMOP4662266,Hydroxychloroquine 200 MG Oral Tablet [OXIKLORIN],RxNorm Extension
+43800506,OMOP938971,Chloroquine 250 MG Oral Tablet [Resochin] by Bayer,RxNorm Extension
+44160279,OMOP3037002,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Ae-Media,RxNorm Extension
+43288564,OMOP534421,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Ranbaxy,RxNorm Extension
+42935576,OMOP4662286,Hydroxychloroquine 100 MG [DUROC],RxNorm Extension
+40725909,OMOP4731257,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Sigma,RxNorm Extension
+19103505,410703,Ethosuximide 150 MG / Quinacrine 7.5 MG Oral Capsule,RxNorm
+40725911,OMOP4731255,Hydroxychloroquine 200 MG Oral Tablet by Phoenix Healthcare Distribution,RxNorm Extension
+40702768,OMOP4754530,{(chloroquine phosphate 250 MG Oral Tablet) / (proguanil hydrochloride 100 MG Oral Tablet) } Pack by Alliance,RxNorm Extension
+41305085,OMOP2503047,Chloroquine 500 MG Oral Tablet Box of 10,RxNorm Extension
+41298868,OMOP2496830,Aluminum carbonate / Chloroquine / salicylamide Oral Tablet,RxNorm Extension
+41261720,OMOP2459682,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 20 by Weimer,RxNorm Extension
+21042642,OMOP362232,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 20 by Alliance,RxNorm Extension
+41047873,OMOP2245835,Chloroquine 250 MG [Resochin],RxNorm Extension
+43165301,OMOP429017,150 ML Chloroquine 5 MG/ML Oral Solution [Nivaquine],RxNorm Extension
+40702767,OMOP4754531,{(chloroquine phosphate 250 MG Oral Tablet) / (proguanil hydrochloride 100 MG Oral Tablet) } Pack,RxNorm Extension
+21177751,OMOP339876,{14 (chloroquine phosphate 250 MG Oral Tablet) / 98 (proguanil hydrochloride 100 MG Oral Tablet) } Pack,RxNorm Extension
+41125982,OMOP2323944,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 30,RxNorm Extension
+40918355,OMOP2116317,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Ae-Media,RxNorm Extension
+21174794,OMOP279230,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Phoenix Labs,RxNorm Extension
+40868447,OMOP2066409,Chloroquine 10.8 MG/ML Oral Solution Box of 1,RxNorm Extension
+41066512,OMOP2264474,Chloroquine 25 MG/ML Oral Solution [Resochin],RxNorm Extension
+40854520,OMOP2052482,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Emra-Med,RxNorm Extension
+21135416,OMOP279305,Hydroxychloroquine 17 MG/ML Oral Solution,RxNorm Extension
+35763259,OMOP2764720,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Creo,RxNorm Extension
+35780311,OMOP2781772,5 ML Chloroquine 40 MG/ML Injectable Solution Box of 10 by A A H,RxNorm Extension
+41316290,OMOP2514252,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 100,RxNorm Extension
+21165050,OMOP279197,Hydroxychloroquine Oral Suspension,RxNorm Extension
+41419621,OMOP2617583,100 ML Chloroquine 0.25 MG/ML Oral Solution [Weimerquin] Box of 1,RxNorm Extension
+40829622,OMOP2027584,Chloroquine 250 MG [Arthrabas],RxNorm Extension
+35762419,OMOP2763880,Chloroquine 54.5 MG/ML Injectable Solution Box of 10,RxNorm Extension
+40020425,371408,Chloroquine Oral Capsule,RxNorm
+41285015,OMOP2482977,Chloroquine 250 MG Oral Tablet [Resochin] Box of 1000,RxNorm Extension
+41098029,OMOP2295991,Chloroquine 81 MG Oral Tablet [Resochin],RxNorm Extension
+41113761,OMOP2311723,Chloroquine Oral Tablet [Resochina],RxNorm Extension
+44160280,OMOP3037003,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Ae-Media,RxNorm Extension
+21067939,OMOP301654,1 ML Hydroxychloroquine 21.6 MG/ML Oral Solution,RxNorm Extension
+40980702,OMOP2178664,Chloroquine 250 MG Oral Tablet [Resochina] Box of 20 by Repa,RxNorm Extension
+21038461,OMOP301685,1 ML Hydroxychloroquine 80 MG/ML Oral Solution,RxNorm Extension
+44121724,OMOP1116355,Hydroxychloroquine Oral Tablet [Pro-Hydroxyquine],RxNorm Extension
+41050593,OMOP2248555,Ethosuximide / Quinacrine Oral Capsule [Acrisuxin],RxNorm Extension
+40020426,438458,Chloroquine Oral Suspension,RxNorm
+35767364,OMOP2768825,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by Sigma-Tau,RxNorm Extension
+35767363,OMOP2768824,Hydroxychloroquine 200 MG Delayed Release Oral Tablet Box of 60 by DE,RxNorm Extension
+35781338,OMOP2782799,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine] Box of 10 by Aventis,RxNorm Extension
+21177952,OMOP339808,{14 (chloroquine phosphate 250 MG Oral Tablet) / 98 (proguanil hydrochloride 100 MG Oral Tablet) } Pack [Paludrine/Avloclor anti-malarial travel pack] by Alliance,RxNorm Extension
+41119242,OMOP2317204,Aminopyrine 50 MG / Chloroquine 40 MG / mofebutazone 50 MG / Prednisone 1 MG Oral Tablet,RxNorm Extension
+21165051,OMOP279202,Hydroxychloroquine 10 MG/ML,RxNorm Extension
+40824749,OMOP2022711,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Ae-Media,RxNorm Extension
+36897622,OMOP990857,{14 (chloroquine phosphate 250 MG Oral Tablet) / 98 (proguanil hydrochloride 100 MG Oral Tablet) } Pack [Paludrine/Avloclor anti-malarial travel pack],RxNorm Extension
+21066797,OMOP279213,Hydroxychloroquine 200 MG [Quinoric],RxNorm Extension
+41043131,OMOP2241093,Chloroquine 250 MG Oral Tablet [Resochin] Box of 20 by Kohlpharma,RxNorm Extension
+21174795,OMOP279236,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by DE,RxNorm Extension
+42935542,OMOP4662252,Hydroxychloroquine 400 MG [Chlorquin],RxNorm Extension
+41250777,OMOP2448739,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 100,RxNorm Extension
+41261719,OMOP2459681,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 100 by Biokanol,RxNorm Extension
+41402672,OMOP2600634,60 ML Chloroquine 16 MG/ML Oral Solution,RxNorm Extension
+40856162,OMOP2054124,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 20 by Biokanol,RxNorm Extension
+41148717,OMOP2346679,Ethosuximide 150 MG / Quinacrine 7.5 MG Oral Capsule Box of 100,RxNorm Extension
+43602638,OMOP938979,Chloroquine 81 MG Oral Tablet [Resochin] by Bayer,RxNorm Extension
+35781258,OMOP2782719,5 ML Chloroquine 40 MG/ML Injectable Solution [Nivaquine],RxNorm Extension
+42935578,OMOP4662288,Hydroxychloroquine Oral Tablet [Chlorquin],RxNorm Extension
+41403939,OMOP2601901,75 ML Chloroquine 25 MG/ML Oral Solution [Resochin] Box of 1,RxNorm Extension
+40702880,OMOP4754309,{2 (chloroquine phosphate 250 MG Oral Tablet) / 14 (proguanil hydrochloride 100 MG Oral Tablet) } Pack,RxNorm Extension
+40051597,368893,Hydroxychloroquine Oral Tablet [Quineprox],RxNorm
+35771715,OMOP2773176,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Waymade,RxNorm Extension
+35771712,OMOP2773173,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Plaquenil] Box of 60 by Sanofi,RxNorm Extension
+41149666,OMOP2347628,Chloroquine 250 MG Oral Tablet Box of 1500,RxNorm Extension
+41074501,OMOP2272463,Chloroquine 250 MG Oral Tablet [Resochina] Box of 50 by Eurim-Pharm,RxNorm Extension
+35750712,OMOP2752173,Hydroxychloroquine 200 MG Delayed Release Oral Tablet by Zentiva,RxNorm Extension
+41403527,OMOP2601489,75 ML Chloroquine 25 MG/ML Oral Solution,RxNorm Extension
+41324216,OMOP2522178,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 10 by Biokanol,RxNorm Extension
+40733825,OMOP4724248,Quinacrine 50 MG Oral Capsule Box of 1,RxNorm Extension
+40241760,1119304,Chloroquine Sulfate 200 MG Oral Capsule,RxNorm
+21101502,OMOP362225,Chloroquine 250 MG Oral Tablet Box of 100 by Alliance,RxNorm Extension
+41137310,OMOP2335272,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Ae-Media,RxNorm Extension
+40242199,1119311,Hydroxychloroquine Sulfate 400 MG,RxNorm
+41066508,OMOP2264470,Chloroquine 250 MG Oral Tablet [Arthrabas],RxNorm Extension
+35778008,OMOP2779469,1 ML Hydroxychloroquine 40 MG/ML Oral Solution by Drug Tariff Special Order,RxNorm Extension
+21125532,OMOP279327,Hydroxychloroquine 30 MG/ML Oral Suspension,RxNorm Extension
+40848443,OMOP2046405,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 100,RxNorm Extension
+44057057,OMOP1051688,Hydroxychloroquine Oral Tablet [Pms-Hydroxychloroquine],RxNorm Extension
+41316292,OMOP2514254,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 50,RxNorm Extension
+21042641,OMOP362216,Chloroquine 40 MG/ML [Nivaquine],RxNorm Extension
+40725906,OMOP4731260,Hydroxychloroquine 200 MG Oral Tablet [Quinoric] by Bristol Labs,RxNorm Extension
+21175883,OMOP301626,1 ML Hydroxychloroquine 14 MG/ML Oral Solution,RxNorm Extension
+41137312,OMOP2335274,Chloroquine 500 MG Oral Tablet [Weimerquin] Box of 20 by Weimer,RxNorm Extension
+40954341,OMOP2152303,Chloroquine 250 MG [Weimerquin],RxNorm Extension
+40241959,1116760,chloroquine phosphate 500 MG Oral Tablet [Aralen Phosphate],RxNorm
+43288563,OMOP534416,Hydroxychloroquine 200 MG Oral Tablet Box of 100,RxNorm Extension
+43710763,OMOP941330,Hydroxychloroquine 200 MG Oral Tablet [Quensyl],RxNorm Extension
+41105913,OMOP2303875,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Emra-Med,RxNorm Extension
+21047208,OMOP279235,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Waymade,RxNorm Extension
+21165059,OMOP279260,Hydroxychloroquine 3 MG/ML Oral Solution,RxNorm Extension
+40854520,OMOP2052482,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Emra-Med,RxNorm Extension
+41229344,OMOP2427306,Hydroxychloroquine 200 MG Oral Tablet [Quensyl] Box of 100 by Sanofi,RxNorm Extension
+41191957,OMOP2389919,Chloroquine 250 MG Oral Tablet [Chlorochin] Box of 40,RxNorm Extension
+21058309,OMOP307455,5 ML Chloroquine 54.5 MG/ML Prefilled Syringe Box of 10 by Beacon,RxNorm Extension
+21047210,OMOP279274,Hydroxychloroquine 21.6 MG/ML Oral Solution,RxNorm Extension
+41403236,OMOP2601198,75 ML Chloroquine 10.8 MG/ML Oral Solution Box of 1,RxNorm Extension
+41066509,OMOP2264471,Chloroquine 250 MG Oral Tablet [Weimerquin] Box of 20,RxNorm Extension
+21032723,OMOP362206,Chloroquine Oral Tablet [Avloclor],RxNorm Extension
+44076117,OMOP1070748,Hydroxychloroquine 200 MG Oral Tablet [Mylan-Hydroxychloroquine] by Mylan,RxNorm Extension
+43256013,OMOP534419,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Actavis,RxNorm Extension
+41024165,OMOP2222127,Chloroquine 250 MG Oral Tablet Box of 250,RxNorm Extension
+42935584,OMOP4662294,Hydroxychloroquine Oral Tablet [OXIKLORIN],RxNorm Extension
+36240211,1185919,Quineprox Pill,RxNorm
+40845135,OMOP2043097,Hydroxychloroquine 200 MG Delayed Release Oral Tablet [Quensyl] Box of 100,RxNorm Extension
+21032725,OMOP362231,Chloroquine 250 MG Oral Tablet [Avloclor] Box of 20,RxNorm Extension
+42935568,OMOP4662278,Hydroxychloroquine 100 MG Oral Tablet [Chlorquin],RxNorm Extension
+44111968,OMOP1106599,Hydroxychloroquine 200 MG Oral Tablet [Apo-Hydroxyquine],RxNorm Extension
+21136849,OMOP307442,5 ML Chloroquine 40 MG/ML Prefilled Syringe by Sanofi,RxNorm Extension
+43294011,OMOP534417,Hydroxychloroquine 200 MG Oral Tablet Box of 100 by Terry White Chemists,RxNorm Extension
+21135414,OMOP279253,Hydroxychloroquine 15 MG/ML,RxNorm Extension
+40988813,OMOP2186775,Chloroquine Oral Tablet [Resochin],RxNorm Extension
+40664937,OMOP4754308,{2 (chloroquine phosphate 250 MG Oral Tablet) / 14 (proguanil hydrochloride 100 MG Oral Tablet) } Pack box of 7,RxNorm Extension
+40665026,OMOP4754307,{2 (chloroquine phosphate 250 MG Oral Tablet) / 14 (proguanil hydrochloride 100 MG Oral Tablet) } Pack box of 7 by Alliance,RxNorm Extension
+44115695,OMOP1110326,Chloroquine 250 MG Oral Tablet [Teva-Chloroquine] by TEVA,RxNorm Extension
+41292883,OMOP2490845,Chloroquine 250 MG Oral Tablet [Arthrabas] Box of 100 by Takeda,RxNorm Extension
+41230984,OMOP2428946,Chloroquine 250 MG Oral Tablet [Resochin] Box of 100 by Aca Mueller,RxNorm Extension
+41004244,OMOP2202206,Chloroquine 10.8 MG/ML Oral Solution [Resochin],RxNorm Extension
+21155237,OMOP279231,Hydroxychloroquine 200 MG Oral Tablet Box of 60 by Kent,RxNorm Extension
+36220827,1164628,Hydroxychloroquine Pill,RxNorm
+40848446,OMOP2046408,Chloroquine 0.25 MG/ML Oral Solution [Weimerquin],RxNorm Extension
+41137311,OMOP2335273,Chloroquine 250 MG Oral Tablet [Resochin] Box of 50 by Beragena,RxNorm Extension
+42935544,OMOP4662254,Hydroxychloroquine 300 MG Oral Tablet,RxNorm Extension
+41324213,OMOP2522175,Chloroquine 250 MG Oral Tablet [Resochina] Box of 100 by Gerke,RxNorm Extension
+41166915,OMOP2364877,Hydroxychloroquine 200 MG Oral Tablet [Plaquenil] Box of 100 by Kohlpharma,RxNorm Extension

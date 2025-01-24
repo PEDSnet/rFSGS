@@ -1,0 +1,33 @@
+concept_id,concept_name,concept_code,vocabulary_id
+2774518,"Transplantation of Right Kidney, Syngeneic, Open Approach",0TY00Z1,ICD10PCS
+2774521,"Transplantation of Left Kidney, Syngeneic, Open Approach",0TY10Z1,ICD10PCS
+36256075,Arterial stenosis of transplanted kidney,10049279,MedDRA
+2109582,"Backbench reconstruction of cadaver or living donor renal allograft prior to transplantation; venous anastomosis, each",50327,CPT4
+2109589,"Renal autotransplantation, reimplantation of kidney",50380,CPT4
+2890060,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left @ Open",0TY10,ICD10PCS
+2003626,Other kidney transplantation,55.69,ICD9Proc
+2109586,"Renal allotransplantation, implantation of graft; without recipient nephrectomy",50360,CPT4
+2827873,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left @ Open @ No Device",0TY10Z,ICD10PCS
+2109588,Removal of transplanted renal allograft,50370,CPT4
+2877118,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right",0TY0,ICD10PCS
+36256077,Primary kidney transplant nonfunction,10064680,MedDRA
+36256074,Renal graft function delayed,10048747,MedDRA
+2109585,Recipient nephrectomy (separate procedure),50340,CPT4
+2774519,"Transplantation of Right Kidney, Zooplastic, Open Approach",0TY00Z2,ICD10PCS
+45888790,Renal Transplantation Procedures,1008098,CPT4
+2792053,Ultrasonography of Kidney Transplant,BT49ZZZ,ICD10PCS
+2799812,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right @ Open",0TY00,ICD10PCS
+2109587,"Renal allotransplantation, implantation of graft; with recipient nephrectomy",50365,CPT4
+2833286,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Left",0TY1,ICD10PCS
+2109580,"Backbench standard preparation of cadaver donor renal allograft prior to transplantation, including dissection and removal of perinephric fat, diaphragmatic and retroperitoneal attachments, excision of adrenal gland, and preparation of ureter(s), renal ve",50323,CPT4
+36211758,Complications of transplanted kidney,10010185,MedDRA
+45887599,Backbench reconstruction of cadaver or living donor renal allograft prior to transplantation,1008104,CPT4
+2774522,"Transplantation of Left Kidney, Zooplastic, Open Approach",0TY10Z2,ICD10PCS
+2774520,"Transplantation of Left Kidney, Allogeneic, Open Approach",0TY10Z0,ICD10PCS
+44511721,Other specified transplantation of kidney,M01.8,OPCS4
+2774517,"Transplantation of Right Kidney, Allogeneic, Open Approach",0TY00Z0,ICD10PCS
+45887600,"Renal allotransplantation, implantation of graft",1008109,CPT4
+2109583,"Backbench reconstruction of cadaver or living donor renal allograft prior to transplantation; arterial anastomosis, each",50328,CPT4
+36256076,Kidney graft dysfunction,10051366,MedDRA
+2877119,"Medical and Surgical @ Urinary System @ Transplantation @ Kidney, Right @ Open @ No Device",0TY00Z,ICD10PCS
+2774516,"Urinary System, Transplantation",0TY,ICD10PCS
